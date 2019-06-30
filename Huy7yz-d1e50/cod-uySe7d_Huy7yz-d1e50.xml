@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Epistola [Morges 1580 Transcription]</title>
+        <author ref="#AntoineDeChandieu">Antoine de Chandieu</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Epistola [Morges 1580 Transcription]</title>
+          <date when="2019-06-30">June 30, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-uySe7d">Morges 1580</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="f8"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="Huy7yz-d1e50">
+        <head>Epistola [Morges 1580 Transcription]</head>
+        <p><!--002.xml-->
+          <pb ed="#M" n="f8"/>
+          <lb ed="#M" n="1"/>Veros Ecclesiae Pasto 
+          <lb ed="#M" n="2"/>res, Chrysostomus dice 
+          <lb ed="#M" n="3"/>bat tubis illis esse simi 
+          <lb ed="#M" n="4"/>les quarum clangore mu  
+          <lb ed="#M" n="5"/>ri Iericho corruerunt: Quam 
+          <lb ed="#M" n="6"/>sententiam, vt vobis etiam accommo 
+          <lb ed="#M" n="7"/>dem, fratres obseruandi, facit vestra in  
+          <lb ed="#M" n="8"/>obeundo sancto munere, ad quod vo 
+          <lb ed="#M" n="9"/>cati estis, sedulitas: &amp; maximi labores  
+          <lb ed="#M" n="10"/>non sine fructu maximo iampridem a 
+          <lb ed="#M" n="11"/>vobis exantlati. Quanuis enim Eccle  
+          <lb ed="#M" n="12"/>siae Romanae doctrina, si vsquam alibi,  
+          <lb ed="#M" n="13"/>certe plurimum in Gallia viguerit,  
+          <lb ed="#M" n="14"/>multis hominum propugnaculis, ceu  
+          <lb ed="#M" n="15"/>muris altissimis circumuallata: vestro  
+          <!--009.xml-->
+          <pb ed="#M" n="f9"/>
+          <lb ed="#M" n="1"/>tamen sanctissimo illo clanglore, &amp; E 
+          <lb ed="#M" n="2"/>uangelicis praedicationibus tandem ef 
+          <lb ed="#M" n="3"/>fectum est, vt, euersis Pontificiae doctri  
+          <lb ed="#M" n="4"/>nae fifmamentis, tanquam muris diru  
+          <lb ed="#M" n="5"/>tis, Ecclesiae Pomanae corruptelae, ab  
+          <lb ed="#M" n="6"/>usus, erroresque iam omnium oculis  
+          <lb ed="#M" n="7"/>pateant. Ex quo fit vt quum nostra haec 
+          <lb ed="#M" n="8"/>tempora cum priscis Israelitarum tem  
+          <lb ed="#M" n="9"/>poribus comparo, non possim satis ac 
+          <lb ed="#M" n="10"/>cusare somnolentam huius aetatis igna 
+          <lb ed="#M" n="11"/>uiam, prae veterum Israelitarum ala 
+          <lb ed="#M" n="12"/>critate: qui simulatque viderunt col  
+          <lb ed="#M" n="13"/>lapsa Iericho moenia, vrbem ipsam e 
+          <lb ed="#M" n="14"/>uestigio expugnarunt: at huius aetatis  
+          <lb ed="#M" n="15"/>plerique homines, licet Pontificios er 
+          <lb ed="#M" n="16"/>rores iampridem patefactos animad 
+          <lb ed="#M" n="17"/>uertant: attamen tantum abest vt illos  
+          <lb ed="#M" n="18"/>expugnent, vt etiam suo praesidio, quan  
+          <lb ed="#M" n="19"/>tum in ipsis est, communiant. Vobis  
+          <lb ed="#M" n="20"/>autem tot iam aerumnas, molestias, do 
+          <lb ed="#M" n="21"/>loresque perpessis, ecce, novi quotidie 
+          <lb ed="#M" n="22"/>labores emergunt, summa animi con  
+          <lb ed="#M" n="23"/>stantia, &amp; inuicta fortitudine superan  
+          <lb ed="#M" n="24"/>di. Nam, vt varia ac prope infinita alia 
+          <lb ed="#M" n="25"/>incommoda praetermittam, video vos  
+          <lb ed="#M" n="26"/>duobus certaminum generibus potis  
+          <lb ed="#M" n="27"/>simum exerceri. Vnum est, quod noui  
+          <pb ed="#M" n="f10"/>
+          <lb ed="#M" n="1"/>quotidie calumniatotes apponuntur  
+          <lb ed="#M" n="2"/>(nempe aduersus veritatis Ministros, 
+          <lb ed="#M" n="3"/>ministri mandacij comparati) qui li  
+          <lb ed="#M" n="4"/>bellis editis, piorum Ecclesiae Pasto 
+          <lb ed="#M" n="5"/>rum innocentiam, horrendis menda 
+          <lb ed="#M" n="6"/>ciis, &amp; impudentissimis calumnis ex 
+          <lb ed="#M" n="7"/>agitant. In istorum numero, sunt e 
+          <lb ed="#M" n="8"/>tiam nonnuli, quos aestus persecutio  
+          <lb ed="#M" n="9"/>nis absorpsit, qui quum fuerint ad Pon  
+          <lb ed="#M" n="10"/>tificios errores, quasi tempestate dela 
+          <lb ed="#M" n="11"/>ti, ad eos tanquam ad saxum, obstina 
+          <lb ed="#M" n="12"/>tis animis, adhaerescunt: atque, quod 
+          <lb ed="#M" n="13"/>magis dolendum est, Ponitificiorum 
+          <lb ed="#M" n="14"/>gratiam &amp; favorem mendicantes, nul  
+          <lb ed="#M" n="15"/>lum nec maledicendi, nec male scri  
+          <lb ed="#M" n="16"/>bendi finem faciunt. Hoc certaminis  
+          <lb ed="#M" n="17"/>genere vos pulcherrimi, meo quidem  
+          <lb ed="#M" n="18"/>iudicio, defungemini, non certando: ni  
+          <lb ed="#M" n="19"/>mirum huius Dauidicae sententiae me 
+          <lb ed="#M" n="20"/>mores, tandem fore, vt calumniatorum  
+          <lb ed="#M" n="21"/>lingua in ipsos calumniatores recidat:  
+          <lb ed="#M" n="22"/>ita enim vsuuenit, vt maledici suo se  
+          <lb ed="#M" n="23"/>telo ipsi confodiant; &amp; salua maneat  
+          <lb ed="#M" n="24"/>probis hominibus sua integritas a ca  
+          <lb ed="#M" n="25"/>lumniatorum mendacis vindicata: Re  
+          <lb ed="#M" n="26"/>stat alterum certaminis genus, in quod  
+          <lb ed="#M" n="27"/>serio &amp; diligenter [sat scio] incumben  
+          <!--011.xml-->
+          <pb ed="#M" n="f11"/>
+          <lb ed="#M" n="1"/>dum esse existimati, atque etiam in 
+          <lb ed="#M" n="2"/>cumbitis Nam paucis abhinc annis ex  
+          <lb ed="#M" n="3"/>titere quidam homines, qui artibus &amp;  
+          <lb ed="#M" n="4"/>liberalioribus disciplinis ac praesertim  
+          <lb ed="#M" n="5"/>ea scientia, quae ad veri disquisitionem  
+          <lb ed="#M" n="6"/>comparata est, ad Pontificios errores 
+          <lb ed="#M" n="7"/>confirmandos abutuntur: vtque faci 
+          <lb ed="#M" n="8"/>lius fucum faciant, ipsum ξοπον παί  
+          <lb ed="#M" n="9"/>δείας in Sophisticum quendam, at  
+          <lb ed="#M" n="10"/>que έυςικον disputandi modum con  
+          <lb ed="#M" n="11"/>uertunt. Huiusmodi sunt imprimis  
+          <lb ed="#M" n="12"/>Pseudonymi (sic enim illos Monachos) 
+          <lb ed="#M" n="13"/>appello, qui sacrosanctum Iesu nomen 
+          <lb ed="#M" n="14"/>perperam, nec sine blasphemia, suae se 
+          <lb ed="#M" n="15"/>ctae inscribunt) qui florentissimas olim 
+          <lb ed="#M" n="16"/>Academias proximis hisce annis oc 
+          <lb ed="#M" n="17"/>cuparunt, ac iam soli totas propemo  
+          <lb ed="#M" n="18"/>dum possident, mirabile quoddam eru 
+          <lb ed="#M" n="19"/>ditionis genus prae se ferentes, atque 
+          <lb ed="#M" n="20"/>imprimis, recte ac perite disputandi  
+          <lb ed="#M" n="21"/>scientiam, sibi vendicantes. Horum 
+          <lb ed="#M" n="22"/>conatibus quum videam vos fortissi 
+          <lb ed="#M" n="23"/>me obsistere, aequum esse existimavi a 
+          <lb ed="#M" n="24"/>liquid etiam pro mea virili in medium 
+          <lb ed="#M" n="25"/>proferre, &amp; quem a vobis nulla vis, 
+          <lb ed="#M" n="26"/>nulla tempestas, nulla denique loco 
+          <lb ed="#M" n="27"/>rum interuall diuellere potuerunt,  
+          <!--012.xml-->
+          <pb ed="#M" n="f12"/>
+          
+          <lb ed="#M" n="1"/>eum vobis in hac etiam pugna,  &amp; in  
+          <lb ed="#M" n="2"/>hoc sanctissimo labore socium adiun  
+          <lb ed="#M" n="3"/>gi. Porro eam disputandi methodum, 
+          <lb ed="#M" n="4"/>mihi sequendam proposui,. quae accom  
+          <lb ed="#M" n="5"/>modatior visa est, ut Theologica, ac 
+          <lb ed="#M" n="6"/>propterea vere Analytica disputatio:  
+          <lb ed="#M" n="7"/>non solum ab αποτητικος ratiocina 
+          <lb ed="#M" n="8"/>tionibus &amp; Sophisticis fallaciis, sed e 
+          <lb ed="#M" n="9"/>tiam a Topicis ac Rehetoricis exercita 
+          <lb ed="#M" n="10"/>tionibus distingueretur: ipsamque me 
+          <lb ed="#M" n="11"/>thodum, quoad eius fieri potuit, hau 
+          <lb ed="#M" n="12"/>rire malui ex purissimis veterum fon 
+          <lb ed="#M" n="13"/>tibus, quam turbidos eorum riuulos,  
+          <lb ed="#M" n="14"/>consectari, qui nostra memoria no 
+          <lb ed="#M" n="15"/>uum quendam differendi modum ex 
+          <lb ed="#M" n="16"/>cogitarunt. Hac tamen de re tum ve 
+          <lb ed="#M" n="17"/>strum, tum reliquorum doctissimorum 
+          <lb ed="#M" n="18"/>Theologorum iudicium expecto, cui 
+          <lb ed="#M" n="19"/>meam sententiam, meque adeo totum  
+          <lb ed="#M" n="20"/>libenter subiicio.
+        </p>
+        <p>
+          <lb ed="#M" n="21"/>Quanquam autem hanc disputan 
+          <lb ed="#M" n="22"/>di rationem, nunc sequutus sum, no 
+          <lb ed="#M" n="23"/>lim tamen propterea aliquid deroga  
+          <lb ed="#M" n="24"/>tum copiosis diffusisque tractationi 
+          <lb ed="#M" n="25"/>bus. Nam (ut quendam ex veteribus 
+          <lb ed="#M" n="26"/>dicere solitum accepimus) quemad 
+          <lb ed="#M" n="27"/>modum eadem manus &amp; aperiri po 
+          <!--013.xml-->
+          <pb ed="#M" n="f13"/>
+          <lb ed="#M" n="1"/>test, &amp; rursus compressis digitis in pu 
+          <lb ed="#M" n="2"/>gnum contrahi: ita res eadem &amp; con  
+          <lb ed="#M" n="3"/>tinua oratione copiose, &amp; Syllogisticis 
+          <lb ed="#M" n="4"/>angustiis coarctata subtilius ac pres 
+          <lb ed="#M" n="5"/>sius tractari potest. Maneat igitur suus 
+          <lb ed="#M" n="6"/>honor ijs tractationibus, quae latius &amp;  
+          <lb ed="#M" n="7"/>vberiori stylo conscriptae sunt, modo  
+          <lb ed="#M" n="8"/>ad confirmandam veritatem adhibean 
+          <lb ed="#M" n="9"/>tur: Est enim, ut ille dicebat, το δικαιον 
+          <lb ed="#M" n="10"/>ανττητον ορθως λεγηται, &amp; Augustino 
+          <lb ed="#M" n="11"/>merito vita est eloquentia tanto terri 
+          <lb ed="#M" n="12"/>bilior, quanto purior. Nihilominus, 
+          <lb ed="#M" n="13"/>quum res postulabit, amplectamur e 
+          <lb ed="#M" n="14"/>tiam contractum hoc differendi genus, 
+          <lb ed="#M" n="15"/>quod permagnum habet usum, quo 
+          <lb ed="#M" n="16"/>ties accurate veritatem disquirimus, 
+          <lb ed="#M" n="17"/>dum impedit ne verisimilia pro veris 
+          <lb ed="#M" n="18"/>sectantes, captiosa probabilitate falla 
+          <lb ed="#M" n="19"/>mur. Quae cum ita sint, quaeri potest. 
+          <lb ed="#M" n="20"/>quamobrem summus ille Orator, fu 
+          <lb ed="#M" n="21"/>sam latius orationem cum subtili &amp; 
+          <lb ed="#M" n="22"/>scholastica disputatione comparans 
+          <lb ed="#M" n="23"/>&amp; plus aequo fortassis arti suae blan 
+          <lb ed="#M" n="24"/>diens: Vt prostuens amnis, (dicat) aut 
+          <lb ed="#M" n="25"/>vix, aut nullo modo, conclusa autem  
+          <lb ed="#M" n="26"/>aqua facile corrumpitur: sic oratio 
+          <!--014.xml-->
+          <pb ed="#M" n="f14"/>
+          <lb ed="#M" n="1"/>nis flumine reprehensoris vitia dilu 
+          <lb ed="#M" n="2"/>untur, angustia autem conclusae ora 
+          <lb ed="#M" n="3"/>tionis, non facile se ipsa tutatur. Haec 
+          <lb ed="#M" n="4"/>ille: quae ut fateor quadrare posse, tum 
+          <lb ed="#M" n="5"/>in laqueos sophisticos, tum in proba 
+          <lb ed="#M" n="6"/>biles dialecticorum disputationes: ita 
+          <lb ed="#M" n="7"/>veris &amp; analyticis syllogismis perne 
+          <lb ed="#M" n="8"/>go convenire. Nam, (ne a proposita 
+          <lb ed="#M" n="9"/>slmilitudine recedamus) quemadmo 
+          <lb ed="#M" n="10"/>dum torrens, dum extra ripas longe  
+          <lb ed="#M" n="11"/>lateque diffluit, tum multa cuiusque 
+          <lb ed="#M" n="12"/>modi, atque etiam impurissima colli 
+          <lb ed="#M" n="13"/>git, quae tandiu latent dum aquis in 
+          <lb ed="#M" n="14"/>undantibus obteguntur: ita saepe ma 
+          <lb ed="#M" n="15"/>gnos errores, quos rapida vehit &amp; oc 
+          <lb ed="#M" n="16"/>cultat oratio, analyticae disputationes  
+          <lb ed="#M" n="17"/>statims detegunt, quum, sublata ora  
+          <lb ed="#M" n="18"/>tionis copia, res ipsas nudas apertas 
+          <lb ed="#M" n="19"/>quae contemplantur. Sed de hac re fu  
+          <lb ed="#M" n="20"/>sius egimus in Praefatione. Caeterum 
+          <lb ed="#M" n="21"/>propono disputaitonem, de verbo Dei 
+          <lb ed="#M" n="22"/>scripto, quae ut primaria est, ita debet  
+          <lb ed="#M" n="23"/>esse Theologicarum omnium dispu 
+          <lb ed="#M" n="24"/>tationum fundamentum. Reliquae 
+          <lb ed="#M" n="25"/>vero disputaitones, ut De vera Christi 
+          <lb ed="#M" n="26"/>humana natura, De praesentia corpo  
+          <lb ed="#M" n="27"/>ris Christi in Coena, De legitma pa 
+          <!--015.xml-->
+          <pb ed="#M" n="f15"/>
+          <lb ed="#M" n="1"/>storum vocatione &amp; ordinatione (de 
+          <lb ed="#M" n="2"/>qua nos aliquid ante duos annos scri 
+          <lb ed="#M" n="3"/>psimus adversus Turrianum Pseudo 
+          <lb ed="#M" n="4"/>nynum, rem ipsam copiosius tractatu 
+          <lb ed="#M" n="5"/>ri, postquam novum dederit scribendi 
+          <lb ed="#M" n="6"/>argumentum) De libero arbitrio, De 
+          <lb ed="#M" n="7"/>Purgatorio, &amp; consimiles, huic substra 
+          <lb ed="#M" n="8"/>ctae disput actioni, adiici poterunt. At 
+          <lb ed="#M" n="9"/>que hoc quidem factum iri a vobis con  
+          <lb ed="#M" n="10"/>fido, vel ex hac methodo quam sequu 
+          <lb ed="#M" n="11"/>tus sum, vel ex ea quam vos ipsis me 
+          <lb ed="#M" n="12"/>liorem iudicabitis.
+        </p>
+        <p>
+          <lb ed="#M" n="13"/>Quamobrem peto a Pontificiis, prae 
+          <lb ed="#M" n="14"/>sertim ab iis qui sibi disputandi scien 
+          <lb ed="#M" n="15"/>tiam imprimis arrogant, vt eam ex scho 
+          <lb ed="#M" n="16"/>lae vmbraculis in solem atque pulue 
+          <lb ed="#M" n="17"/>rem, adeoque in ipsam aciem perdu 
+          <lb ed="#M" n="18"/>cant, &amp; omni simultate deposita, con 
+          <lb ed="#M" n="19"/>utiisque omnibus valere iusis, mode 
+          <lb ed="#M" n="20"/>rate, pacatisque animis nostram hanc 
+          <lb ed="#M" n="21"/>tractationem excutiant: atque in eun 
+          <lb ed="#M" n="22"/>dem disputationis orbem nobiscum 
+          <lb ed="#M" n="23"/>ingressi, notent, quid reprehendendum 
+          <lb ed="#M" n="24"/>existimarint, argumenta nostra sol 
+          <lb ed="#M" n="25"/>uant, &amp; vicissim suam sententiam con 
+          <lb ed="#M" n="26"/>firmare conentur, planis atque perspi 
+          <lb ed="#M" n="27"/>cuis syllogismis: sic enim futurum spe 
+          <!--016.xml-->
+          <pb ed="#M" n="f16"/>
+          <lb ed="#M" n="1"/>ro, ut collatis vtrorumque sententiis 
+          <lb ed="#M" n="2"/>Deo fauvente, lux ipsa veritatis oboria  
+          <lb ed="#M" n="3"/>tur, a caecis propemodum ipsis conspi 
+          <lb ed="#M" n="4"/>cienda. Facessant igitur dentatae char 
+          <lb ed="#M" n="5"/>tae ac repletae conuitiis, autorumque 
+          <lb ed="#M" n="6"/>suorum maculis inquinatae: facessant 
+          <lb ed="#M" n="7"/>turbulentae conciones, nihil aliud quam  
+          <lb ed="#M" n="8"/>gladios &amp; flammas spirantes: adsit  
+          <lb ed="#M" n="9"/>mansuetudo, vigeat tranquillitas, re 
+          <lb ed="#M" n="10"/>gnet veritatis amor &amp; studium: &amp; qui  
+          <lb ed="#M" n="11"/>Catholicorum nomen splendidum tan 
+          <lb ed="#M" n="12"/>topere affectant, toties inculcant &amp; 
+          <lb ed="#M" n="13"/>tanto oris hiatu pronuntiant, memi 
+          <lb ed="#M" n="14"/>nerint quod aliquanod ab Augustino 
+          <lb ed="#M" n="15"/>scriptum est: Ecclesiam Catholicam 
+          <lb ed="#M" n="16"/>docere, Charitatem omnibus, &amp; nulli  
+          <lb ed="#M" n="17"/>deberi iniuriam. Quod si qui sint, qui  
+          <lb ed="#M" n="18"/>praefracte, obstinatisque animis per 
+          <lb ed="#M" n="19"/>gant famosos &amp; sycophanticos libel  
+          <lb ed="#M" n="20"/>los scribere, &amp; siqui adeo hominem 
+          <lb ed="#M" n="21"/>exuerint, vt caninis latratibus verita 
+          <lb ed="#M" n="22"/>ti obsistere, quam veritatem amplecti 
+          <lb ed="#M" n="23"/>malint (quod inter alios facere audio  
+          <lb ed="#M" n="24"/>imprimis vunum, in quo miserrimo 
+          <lb ed="#M" n="25"/>summum extat diuini iudicij exem 
+          <lb ed="#M" n="26"/>plum, cum propter alia scelera, tum 
+          <lb ed="#M" n="27"/>ob eius foedam απος ασιαν ab Evange 
+          <!--017.xml-->
+          <pb ed="#M" n="f17"/>
+          <lb ed="#M" n="1"/>lica doctrina, quam aliquando profes  
+          <lb ed="#M" n="2"/>sus est) ego illis hominibus opto me 
+          <lb ed="#M" n="3"/>liorem mentem: atque hoc meum vo 
+          <lb ed="#M" n="4"/>tum oppono ipsorum petulantiae ac  
+          <lb ed="#M" n="5"/>maledicentiae: nisi aliud ad eiusmodi  
+          <lb ed="#M" n="6"/>libellos responsurus, quos scio, vel vna 
+          <lb ed="#M" n="7"/>patientiae litura; posse totos facillime 
+          <lb ed="#M" n="8"/>deleri. Nam, quod ad me attinet pro 
+          <lb ed="#M" n="9"/>fiteor me scripta illa in quibus tetrum  
+          <lb ed="#M" n="10"/>virus acerbitatis suae tantummodo e 
+          <lb ed="#M" n="11"/>uomunt, ne lecturum quidem: quippe  
+          <lb ed="#M" n="12"/>qui constituerim disserere, non con  
+          <lb ed="#M" n="13"/>uitiari: nec maledictis certate, sed ar 
+          <lb ed="#M" n="14"/>gumentis. Vos autem, fratres obser  
+          <lb ed="#M" n="15"/>uandi, (liceat enim mihi cohortatio  
+          <lb ed="#M" n="16"/>nem hanc Apostolicam vobis accom 
+          <lb ed="#M" n="17"/>modare) decertate praeclarum certa  
+          <lb ed="#M" n="18"/>men fidei, apprehendite vitam aeter  
+          <lb ed="#M" n="19"/>nam, cuius causa &amp; vocati estis &amp; iam 
+          <lb ed="#M" n="20"/>pridem praeclaram confessionem pro  
+          <lb ed="#M" n="21"/>fessi coram multis testibus: atque ma 
+          <lb ed="#M" n="22"/>ledicos istos, nihil morati, indefesso  
+          <lb ed="#M" n="23"/>studio, summa constantia, inuicta pa  
+          <lb ed="#M" n="24"/>tientia, spatium vobis propositum de 
+          <lb ed="#M" n="25"/>currite, &amp; Euangelicae doctrinae veri  
+          <lb ed="#M" n="26"/>tate, ea qua coepistis, hoc est maxima 
+          <lb ed="#M" n="27"/>diligentia &amp; integritate adversus hu  
+          <!--018.xml-->
+          <pb ed="#M" n="f18"/>
+          <lb ed="#M" n="1"/>manos errores propugnare pergite: vt  
+          <lb ed="#M" n="2"/>laborum vestrorum curriculo fortis  
+          <lb ed="#M" n="3"/>sime peracto, posteris ipsis &amp; purita 
+          <lb ed="#M" n="4"/>tem doctrinae, &amp; verum Ecclesia 
+          <lb ed="#M" n="5"/>sticae disciplinae vsum trade 
+          <lb ed="#M" n="6"/>re possitis. Ex Musaeo  
+          <lb ed="#M" n="7"/>nostro. 23. Febr. an  
+          <lb ed="#M" n="8"/>no salutis,  
+          <lb ed="#M" n="9"/>1580.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

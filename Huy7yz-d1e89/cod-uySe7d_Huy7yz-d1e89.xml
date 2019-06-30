@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 2 [Morges 1580 Transcription]</title>
+        <author ref="#AntoineDeChandieu">Antoine de Chandieu</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 2 [Morges 1580 Transcription]</title>
+          <date when="2019-06-30">June 30, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-uySe7d">Morges 1580</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="25"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="Huy7yz-d1e89">
+        <head>Caput 2 [Morges 1580 Transcription]</head>
+        <p>
+          <!--046.xml-->
+          <pb ed="#U" n="25"/>
+          <lb ed="#U" n="1"/>Nostra de verbo Dei hacte 
+          <lb ed="#U" n="2"/>nus proposita &amp; explicata sen 
+          <lb ed="#U" n="3"/>tentia nunc certissimis argumen 
+          <lb ed="#U" n="4"/>tis ex ipso Dei verbo petitis con 
+          <lb ed="#U" n="5"/>firmanda est, &amp; tandem conficienda αποδει  
+          <lb ed="#U" n="6"/>Sς quae rem totam ab omnibus tenebris vin 
+          <lb ed="#U" n="7"/>dicatam in media veritatis luce constituat.  
+          <lb ed="#U" n="8"/>Huius autem rei faciendae hanc rationem 
+          <lb ed="#U" n="9"/>inibimus, vt primum substernamus aliquot  
+          <lb ed="#U" n="10"/>Scripturae locos, ex quibus singulis argume 
+          <lb ed="#U" n="11"/>ta firmissima depromamus: Deinde omni 
+          <lb ed="#U" n="12"/>bus illis simul collectis conficiamus veram  
+          <lb ed="#U" n="13"/>definitionem Scripturae sacrae: quae quidem  
+          <lb ed="#U" n="14"/>definitio erit Medium ταικις nostrae απιδει  
+          <lb ed="#U" n="15"/>δνιας omni exceptione atque dubitatione ma 
+          <lb ed="#U" n="16"/>ius. Quanquam autem in recensendis Scri 
+          <lb ed="#U" n="17"/>pturae locis non curiose laboro de ordine 
+          <lb ed="#U" n="18"/>(nullus est enim locus qui non conficiat con  
+          <lb ed="#U" n="19"/>clusionem primariam, &amp; ipsi loci habent vim  
+          <lb ed="#U" n="20"/>summi Axiomatis) tamen curaui vt, quoad  
+          <lb ed="#U" n="21"/>eius fieri posset, ordo locorum singulis de 
+          <lb ed="#U" n="22"/>finitionis partibus responderet. Quare fa 
+          <lb ed="#U" n="23"/>ciamus initium ab hoc Apostoli loco, qui no 
+          <lb ed="#U" n="24"/>bis causam praebuit huiusce disputationis
+        </p>
+        <div>
+          <head>Locus 1</head>
+          <p>
+            <!-- hebrews 1:1 and 1:2 -->
+            <lb ed="#U" n="25"/>Deus multis vicibus multisque modis olim 
+            <lb ed="#U" n="26"/>loquutus Patribus per Prophetas, ultimis die 
+            <lb ed="#U" n="27"/>bus hisce nobis loquutus est per Filium
+          </p>
+          <p>
+            <lb ed="#U" n="28"/>Ex his Apostoli verbis nos ita concludimus, 
+            <!--047.xml-->
+            <pb ed="#U" n="026"/>
+            <lb ed="#U" n="1"/>Si verbum Dei ad salutem Ecclesiae necessa  
+            <lb ed="#U" n="2"/>rium nobis primum per Prophetas, deinde per 
+            <lb ed="#U" n="3"/>Christum &amp; Apostolos traditum est, &amp; verbum  
+            <lb ed="#U" n="4"/>Dei per Prophetas traditum hodie querendum est 
+            <lb ed="#U" n="5"/>tantum in scriptis Propheticis. Certe verbum 
+            <lb ed="#U" n="6"/>Dei nobis per Christum &amp; Apostolos traditum, 
+            <lb ed="#U" n="7"/>hodie quaerendum est tantum in scriptis Apo 
+            <lb ed="#U" n="8"/>stolicis, nisi certa ratio dissumilitudinis reddi  
+            <lb ed="#U" n="9"/>possit.
+          </p>
+          <p>
+            <lb ed="#U" n="10"/>At verbum Dei ad salutem Ecclesiae neces 
+            <lb ed="#U" n="11"/>sarium nobis primum per Propbetas, deinde per 
+            <lb ed="#U" n="12"/>Christum &amp; Apostolos traditum est: &amp; verbum  
+            <lb ed="#U" n="13"/>Dei per Prophetas traditum hodie quaerendum 
+            <lb ed="#U" n="14"/>est tantum in scriptis Propheticis, nec ulla cer  
+            <lb ed="#U" n="15"/>ta ratio dissimilitudinis reddi potest quominus 
+            <lb ed="#U" n="16"/>idem de verbo Dei per Christum &amp; Apostolos  
+            <lb ed="#U" n="17"/>tradito statuendum sit.
+          </p>
+          <p>
+            <lb ed="#U" n="18"/>Quare verbum Dei ad salutem Ecclesia ne 
+            <lb ed="#U" n="19"/>cessarium hodie quaerendum est tantum in scri 
+            <lb ed="#U" n="20"/>ptis Propheticis &amp; Apostolicis.
+          </p>
+          <p>
+            <lb ed="#U" n="21"/>Excutio superius argumentum. Syllogis  
+            <lb ed="#U" n="22"/>mus est hypotheticus πζοπλικος, cuius vsus est 
+            <lb ed="#U" n="23"/>maximus quoties de rebus comparandis a 
+            <lb ed="#U" n="24"/>gitur. Syllogismos autem hypotheticos es 
+            <lb ed="#U" n="25"/>se disputationibus Theologicis valde ac 
+            <lb ed="#U" n="26"/>commodatos patet cum ex veteribus tum ex 
+            <lb ed="#U" n="27"/>Scholasticis, qui illis frequentissime vsi sunt.  
+            <lb ed="#U" n="28"/>ltaque non dubitaui aeque illis vti ac δεxτη 
+            <lb ed="#U" n="29"/>θς, quandoquidem hypotheses non sunt To 
+            <lb ed="#U" n="30"/>picae, sed nituntur expressis Scripturae locis, 
+            <lb ed="#U" n="31"/>ac propterea huiusmodi syllogismi non sunt  
+            <!--048.xml-->
+            <pb ed="#U" n="27"/>
+            <lb ed="#U" n="1"/>directis inferiores. Huius ergo syllogismi 
+            <lb ed="#U" n="2"/>hypothesis siue connexum hypotheticum 
+            <lb ed="#U" n="3"/>patet ipsa luce naturae quae dictat de iisdem  
+            <lb ed="#U" n="4"/>idem esse statuendum. Haec autem princi 
+            <lb ed="#U" n="5"/>pia quae ex natura ipsa hausimus atque ex 
+            <lb ed="#U" n="6"/>pressimus, non esse repudianda docuit A 
+            <lb ed="#U" n="7"/>postolus, quum Corinthios ad naturam i 
+            <lb ed="#U" n="8"/>psam reuocaret. Facilius enim, inquit Ter 
+            <lb ed="#U" n="9"/>tullianus, credes Prophetiae, discipulus natu  
+            <lb ed="#U" n="10"/>rae. Iam si ουσιαν ipsam spectes, reperies idem 
+            <lb ed="#U" n="11"/>esse verbum Dei cum in vetere, tum in no 
+            <lb ed="#U" n="12"/>uo Testamento, siquidem audimus Aposto 
+            <lb ed="#U" n="13"/>lum profitentem se nihil dixisse extra ea quae 
+            <lb ed="#U" n="14"/>Prophetae &amp; Moses futura esse praedixerunt.  
+            <lb ed="#U" n="15"/>Fateor in novo Testamento exhibitonem 
+            <lb ed="#U" n="16"/>fuisse vberiorem &amp; augustiorem: sed id ad 
+            <lb ed="#U" n="17"/>iuuat nostram causam, tantum abest vt ei 
+            <lb ed="#U" n="18"/>noceat, quemadmodum in sequentibus ar 
+            <lb ed="#U" n="19"/>gumentis nobis erit fusius explicandum, 
+            <lb ed="#U" n="20"/>Expendamus igitur comparationem vete 
+            <lb ed="#U" n="21"/>ris &amp; noui Testamenti, quantum attinet ad  
+            <lb ed="#U" n="22"/>verbum Dei vtrobique exhibitum, atque ita 
+            <lb ed="#U" n="23"/>dicamus. Si Deus loquutus est per Prophe 
+            <lb ed="#U" n="24"/>tas sub veteri Testamento, per Apostolos  
+            <lb ed="#U" n="25"/>quoque sub novo Testamento loquutus est. 
+            <lb ed="#U" n="26"/>Si Prophetae verbum Dei viua voce tradi 
+            <lb ed="#U" n="27"/>derunt, id fecerunt &amp; Apostoli. Si Prophe 
+            <lb ed="#U" n="28"/>tae verbum Dei literis mandarunt, id etiam  
+            <lb ed="#U" n="29"/>Apostoli fecerunt. Quare, si Prophetae do 
+            <lb ed="#U" n="30"/>ctrinam veteris Testamenti totam scriptis  
+            <lb ed="#U" n="31"/>comprehenderunt, cur non dicemus Apo 
+            <!--049.xml-->
+            <pb ed="#U" n="28"/>
+            <lb ed="#U" n="1"/>stolos quoque totam Euangelij doctrinam 
+            <lb ed="#U" n="2"/>scriptis suis fuisse complexos? Proferant 
+            <lb ed="#U" n="3"/>Pontificii rationem dissimilitudinis, ratio 
+            <lb ed="#U" n="4"/>nem, inquam, non ex humanis somniis, non 
+            <lb ed="#U" n="5"/>ex probabilibus ac Topicis argumentis, sed  
+            <lb ed="#U" n="6"/>ex certo Dei verbo petitam. At non pote 
+            <lb ed="#U" n="7"/>runt. Quinetiam vrgebo locum hunc Apo 
+            <lb ed="#U" n="8"/>stoli quem in manibus habemus, atque ita 
+            <lb ed="#U" n="9"/>ratiocinabor: Si verbum Dei multifariam 
+            <lb ed="#U" n="10"/>olim multisque modis traditum, totum ho 
+            <lb ed="#U" n="11"/>die in scriptis Propheticis reperitur, cur non 
+            <lb ed="#U" n="12"/>idem dicemus de verbo Dei Euangelico 
+            <lb ed="#U" n="13"/>quod non multifariam neque multis mo 
+            <lb ed="#U" n="14"/>dis fuisse traditum Apostolus testatur? A 
+            <lb ed="#U" n="15"/>lioqui quis non videt iacere vim compara 
+            <lb ed="#U" n="16"/>tionis ab Apostolo propositae? Nam ita di 
+            <lb ed="#U" n="17"/>ceret Apostolus, siquidem vera esset Pon 
+            <lb ed="#U" n="18"/>tificiorum sententia: Quemadmodum olim 
+            <lb ed="#U" n="19"/>Deus multifariam multisque modis loquu 
+            <lb ed="#U" n="20"/>tus est sub vetere Testamento: ita nuc noui  
+            <lb ed="#U" n="21"/>Testamenti temporibus multifariam nobis  
+            <lb ed="#U" n="22"/>multisque modis loquutus est, nempe per 
+            <lb ed="#U" n="23"/>scripta Apostolica, per traditiones Aposto 
+            <lb ed="#U" n="24"/>licas ab ipsis Apostolis non scriptas: atque 
+            <lb ed="#U" n="25"/>etiamnum loquitur per traditiones Eccle  
+            <lb ed="#U" n="26"/>siasticas: quod quam repugnet Apostoli  
+            <lb ed="#U" n="27"/>sententiae, ne ipsi quidem Pontificij nega 
+            <lb ed="#U" n="28"/>uerint. Atque haec de connexo hypothetico.
+          </p>
+          <p>
+            <lb ed="#U" n="29"/>Assumptum (το μεταλομφαθνοιθιο)) quod se 
+            <lb ed="#U" n="30"/>cundo loco posuimus habet tria membra. 
+            <lb ed="#U" n="31"/>Primum est: Verbum Dei ad salutem Ec 
+            <!--050.xml-->
+            <pb ed="#U" n="29"/>
+            <lb ed="#U" n="1"/>clesiae necessarium nobis primum per Pro 
+            <lb ed="#U" n="2"/>phetas: deinde per Christum &amp; Apostolos  
+            <lb ed="#U" n="3"/>traditum fuisse. Atque hoc perspicuum est 
+            <lb ed="#U" n="4"/>ex hoc loco Apostoli. Qlim, inquit, per 
+            <lb ed="#U" n="5"/>Prophetas: Vltimis diebus per filium: quod  
+            <lb ed="#U" n="6"/>posterius esse ad Apostolos quoque porri 
+            <lb ed="#U" n="7"/>gendum patet ex hoc ipso Apostolo, cap. 2. 
+            <lb ed="#U" n="8"/>huius epistolae, vbi dicit salutem Euangeli  
+            <lb ed="#U" n="9"/>cam nobis primum annuntiatam a Christo 
+            <lb ed="#U" n="10"/>fuisse, deinde ab iis confirmatam qui ipsum 
+            <lb ed="#U" n="11"/>audiuerant. Et apud Ioannem: Quemad 
+            <lb ed="#U" n="12"/>modum, inquit, misit me pater, ita &amp; ego mit 
+            <lb ed="#U" n="13"/>to vos. Atque omnino negari non potest 
+            <lb ed="#U" n="14"/>Euangelii doctrinam fuisse ab Apostolis con 
+            <lb ed="#U" n="15"/>scriptam. Secundum membrum Assumpti 
+            <lb ed="#U" n="16"/>est: Verbum Dei per Prophetas traditum ho 
+            <lb ed="#U" n="17"/>die tantum esse quaerendum in scriptis Pro 
+            <lb ed="#U" n="18"/>pheticis. Atque hoc patet ex vsu loquendi  
+            <lb ed="#U" n="19"/>Scripturae, vbi per Prophetas intelliguntur  
+            <lb ed="#U" n="20"/>scripta Prophetarum. Vt, Euangelium pro 
+            <lb ed="#U" n="21"/>missum per Prophetas in Scripturis sanctis, 
+            <lb ed="#U" n="22"/>Habent Mosen &amp; Prophetas. Scriptum est 
+            <lb ed="#U" n="23"/>in Prophetis. Credis Prophetis. Exorsus a  
+            <lb ed="#U" n="24"/>Mose &amp; omnibus Prophetis interpretaba 
+            <lb ed="#U" n="25"/>tur quae de ipso scripta erant. Denique Pe 
+            <lb ed="#U" n="26"/>trus per sermonem Propheticum scripta 
+            <lb ed="#U" n="27"/>Prophetarum intelligit. &amp; paulo post: Non 
+            <lb ed="#U" n="28"/>libidine hominis allata est olim Prophetia, 
+            <lb ed="#U" n="29"/>sed acti a Spiritu sancto loquuti sunt sancti 
+            <lb ed="#U" n="30"/>Dei homines. ne mihi multi alij loci consi 
+            <lb ed="#U" n="31"/>miles recensendi sint. Praeterea si Pontificii 
+            <!--051.xml-->
+            <pb ed="#U" n="30"/>
+            <lb ed="#U" n="1"/>nobis non assentiantur, ferant igitur επςαιονν, 
+            <lb ed="#U" n="2"/>At non poterunt. Tertium membrum est, 
+            <lb ed="#U" n="3"/>nullam certam dissimilitudinis rationem pos  
+            <lb ed="#U" n="4"/>se reddi a Pontificiis, quominus idem sta 
+            <lb ed="#U" n="5"/>tuendum sit de verbo Dei tradito per Chri 
+            <lb ed="#U" n="6"/>stum &amp; Apostolos, quod statuitur de verbo  
+            <lb ed="#U" n="7"/>Dei tradito per Prophetas: nempe totum 
+            <lb ed="#U" n="8"/>fuisse literis mandatum, quatenus fides &amp; 
+            <lb ed="#U" n="9"/>falus Ecclesiae postulat. Quum igitur Pon 
+            <lb ed="#U" n="10"/>tificij affirment esse dissimilitudinem hac in 
+            <lb ed="#U" n="11"/>parte, debent causam dissimilitudinis pro 
+            <lb ed="#U" n="12"/>ferre quae sit vera ac Theologica. 
+            <lb ed="#U" n="13"/>Quibus omnibus superioribus confirma 
+            <lb ed="#U" n="14"/>tis, tenet argumenti nostri conclusio.
+          </p>
+        </div>
+        <div>
+          <head>Locus 2</head>
+          <p>
+            <lb ed="#U" n="15"/>Visum est, mihi omnia scribere ut agnoscas 
+            <lb ed="#U" n="16"/>earum rerum veritatem quas auditione accepi 
+            <lb ed="#U" n="17"/>sti. Huc etiam referri possunt sequentes locis.
+          </p>
+          <p>
+             <lb ed="#U" n="18"/>Omne studium adhibeo ut scribam ad vos 
+            <lb ed="#U" n="19"/>de communi salute.
+          </p>
+          <p>
+            <lb ed="#U" n="20"/>Eadem scribere volus me quidem haud pi 
+            <lb ed="#U" n="21"/>get: uobis autem tutum est. 
+          </p>
+          <p>
+            <lb ed="#U" n="22"/>Quod vidimus annuntiamus vobis.
+          </p>
+          <p>
+            <lb ed="#U" n="23"/>Hisce literas scribo volis, quibus vos com 
+            <lb ed="#U" n="24"/>monefacio ut memores sitis doctrinae Prophe 
+            <lb ed="#U" n="25"/>tarum &amp; nostrae.
+          </p>
+          <p>
+            <lb ed="#U" n="26"/>Non negligam vos de istis semper commo 
+            <lb ed="#U" n="27"/>nefacere licet quantumuis eruditos.
+          </p>
+          <p>
+            <lb ed="#U" n="28"/>Ex quibus &amp; consimilibus locis ita con 
+            <lb ed="#U" n="29"/>cludimus.
+          </p>
+          <p>
+            <lb ed="#U" n="30"/>Si in eum finem Apostoli &amp; Evangelistae do 
+            <!--052.xml-->
+            <pb ed="#U" n="31"/>
+            <lb ed="#U" n="1"/>ctrinam Evangelicam literis mandarunt, vt ve 
+            <lb ed="#U" n="2"/>ritas earum rerum qua viua voce traditae fue  
+            <lb ed="#U" n="3"/>rant magis magisque agnosceretu: &amp; confrma 
+            <lb ed="#U" n="4"/>retur, atque etiam hominum memoriae melius 
+            <lb ed="#U" n="5"/>consultum esset: certe Apostoli &amp; Exangelistae 
+            <lb ed="#U" n="6"/>ea omnia scripta reliquerunt quae viua  voce tra 
+            <lb ed="#U" n="7"/>diderant ad fidem salutemque necessaria.
+            <!-- looks like paragraph breaks here, but these are actually part of the syllogism,
+              and represent the minor premise and conclusion -->
+            <lb ed="#U" n="8"/>Antecedens autem verum est. 
+            <lb ed="#U" n="9"/>Verum igitur &amp; consequens.
+          </p>
+          <p>
+            <lb ed="#U" n="10"/>Connexum hypotheticum primo loco 
+            <lb ed="#U" n="11"/>positum negari non potest, alioqui media 
+            <lb ed="#U" n="12"/>pugnarent cum ipso fine, quod absit vt vel  
+            <lb ed="#U" n="13"/>cogitemus in iis praesertim qui eodem Spi 
+            <lb ed="#U" n="14"/>ritu duce Euangelium &amp; viua voce tradide 
+            <lb ed="#U" n="15"/>runt &amp; conscripserunt.
+          </p>
+          <p>
+            <lb ed="#U" n="16"/>Assumptum expressis verbis confirmant 
+            <lb ed="#U" n="17"/>loci citati
+          </p>
+        </div>
+        <div>
+          <head>Locus 3</head>
+          <p>
+            <lb ed="#U" n="18"/>Nihil addatis verbo quod ego vobis praeci 
+            <lb ed="#U" n="19"/>pio. ltem. Ne addas verbis eius, ne te redar 
+            <lb ed="#U" n="20"/>guat, &amp; mendacii conuiuncaris.
+          </p>
+          <p>
+            <lb ed="#U" n="21"/>Si non licuit  hominibus quidpiam addere scri 
+            <lb ed="#U" n="22"/>ptis Mosis: certe postquam ad scripta Mosis &amp; 
+            <lb ed="#U" n="23"/>Prophetarum scripta quoque Apostolica accesse 
+            <lb ed="#U" n="24"/>runt, dicendum est Scripturam Sacram ea omnia 
+            <lb ed="#U" n="25"/>continere quorum cognitio &amp; ad salutem  
+            <lb ed="#U" n="26"/>necesseria est. 
+            <lb ed="#U" n="27"/>Verum est antecedens. 
+            <lb ed="#U" n="28"/>Quaere non est de consequentis veritate du 
+            <lb ed="#U" n="29"/>bitandum. 
+          </p>
+          <p>
+            <lb ed="#U" n="30"/>Connexum hypotheticum perspicuum 
+            <!--053.xml-->
+            <pb ed="#U" n="32"/>
+            <lb ed="#U" n="1"/>est, non solum ex summa similitudine, verum 
+            <lb ed="#U" n="2"/>etiam ex identitate verbi Dei tam a Mose  
+            <lb ed="#U" n="3"/>quam ab Apostolis propositi, vt probatum 
+            <lb ed="#U" n="4"/>est in primo loco. Assumptum probatur ex 
+            <lb ed="#U" n="5"/>locis citatis qui negant addendum esse ver 
+            <lb ed="#U" n="6"/>bo Dei. Ac ne forte dicant Pontificii, Mosis 
+            <lb ed="#U" n="7"/>locum non esse restringendum ad verbum 
+            <lb ed="#U" n="8"/>Dei ab ipso Mose conscriptum: proferimus 
+            <lb ed="#U" n="9"/>locos sequentes qui vias omnes effugiendi 
+            <lb ed="#U" n="10"/>Pontificiis intercludent. Moses scripsit o 
+            <lb ed="#U" n="11"/>mnia verba Domini. ltem: Moses scripsit 
+            <lb ed="#U" n="12"/>hanc Legem. Omnia verba huius Legis quae 
+            <lb ed="#U" n="13"/>scripta sunt in hoc libro. Et Paulus apud Lu 
+            <lb ed="#U" n="14"/>cam: credo, inquit, omnibus quae in Lege &amp; 
+            <lb ed="#U" n="15"/>in Prophetis scripta sunt. Et quod ait Mo 
+            <lb ed="#U" n="16"/>ses, Execrabilis quisquis non permanserit  
+            <lb ed="#U" n="17"/>in omnib. verbis huius Legis Paulus ita ex 
+            <lb ed="#U" n="18"/>ponit: in omnibus, inquit, quae scripta sunt  
+            <lb ed="#U" n="19"/>in libro Legis. Ex quibus omnibus intelligi  
+            <lb ed="#U" n="20"/>potest verba Dei, de quib. loquitur Moses, 
+            <lb ed="#U" n="21"/>non esse exponenda de scriptis Mosis nec tra 
+            <lb ed="#U" n="22"/>henda ad quasdam traditionοs απναθας ac vi 
+            <lb ed="#U" n="23"/>ua tantum voce a Mose propositas, quem 
+            <lb ed="#U" n="24"/>admodum ludaei Cabalistae mentiuntur, quo 
+            <lb ed="#U" n="25"/>rum errores iampridem in Ecclesia Christia 
+            <lb ed="#U" n="26"/>na explosi sunt.
+          </p>
+        </div>
+        <div>
+          <head>Locus 4</head>
+          <p>
+            <lb ed="#U" n="27"/>Ad legem &amp; ad testimonium. Si non dixe 
+            <lb ed="#U" n="28"/>rint iuxta hoc verbum, nihil habent lucis. Hinc 
+            <lb ed="#U" n="29"/>conficio sequentem conclusionem.
+          </p>
+          <p>
+            <lb ed="#U" n="30"/>Si sub lege recurrendum fuit ad Scripturam, 
+            <!--054.xml-->
+            <pb ed="#U" n="33"/>
+            <lb ed="#U" n="1"/>nihilque in causa fidei recipiendum quod non 
+            <lb ed="#U" n="2"/>contineretur in Scriptura: certe, maiori ratio 
+            <lb ed="#U" n="3"/>ne, postquam ad scripta veteris Testamenti 
+            <lb ed="#U" n="4"/>accessit Exangelii doctrina conscripta ab Apo 
+            <lb ed="#U" n="5"/>stolis, qui veritatem legis explicarunt atque ex 
+            <lb ed="#U" n="6"/>hibuerunt, ea sola sunt in causa fidei recipienda 
+            <lb ed="#U" n="7"/>quae continentur in scriptis veteris &amp; noui Te 
+            <lb ed="#U" n="8"/>stamenti 
+            <lb ed="#U" n="9"/>Antecedens autem verum est. 
+            <lb ed="#U" n="10"/>Quare consequens quoque verum sit neces  
+            <lb ed="#U" n="11"/>se est.
+          </p>
+          <p>
+            <lb ed="#U" n="12"/>Connexum hypotheticum lucet sua luce 
+            <lb ed="#U" n="13"/>propter vim comparationis. Quanquam e 
+            <lb ed="#U" n="14"/>nim si υσιαν &amp; substantiam ipsam spectes, ni 
+            <lb ed="#U" n="15"/>hil aliud dixerunt Apostoli quam quae prae 
+            <lb ed="#U" n="16"/>dicta fuerant a Mose &amp; Prophetis (inquiebat  
+            <lb ed="#U" n="17"/>Paulus) tamen nemo Christianus dubitat  
+            <lb ed="#U" n="18"/>quin exhibitio verbi Dei longe fuerit plenior  
+            <lb ed="#U" n="19"/>&amp; augustior posteamquam Christus patefa 
+            <lb ed="#U" n="20"/>ctus est in carne: quemadmodum etiam A 
+            <lb ed="#U" n="21"/>postoli saepe docuerunt. Quare, si tunc fuit  
+            <lb ed="#U" n="22"/>standum verbo scripto, quanto nunc magis? 
+            <lb ed="#U" n="23"/>Assumptum perspicuum est ex loco citato.  
+            <lb ed="#U" n="24"/>Nec vero sum nescius locum illum Prophe 
+            <lb ed="#U" n="25"/>ticum non vno modo etiam a doctissimis  
+            <lb ed="#U" n="26"/>exponi solitum: sed omnino quocunque 
+            <lb ed="#U" n="27"/>tandem modo exponantur Esaiae verba, huc  
+            <lb ed="#U" n="28"/>redibunt denique, in crassissimis tenebris 
+            <lb ed="#U" n="29"/>eos versari qui spreta lege Dei ad pythoni 
+            <lb ed="#U" n="30"/>corum errores &amp; humana commenta de 
+            <lb ed="#U" n="31"/>sciscunt.
+          </p>
+        </div>
+        <div>
+          <head>Locus 5</head>
+          <p>
+          <!--055.xml-->
+          <pb ed="#U" n="34"/>
+          <lb ed="#U" n="1"/>Apuero sacras literas nosti quae te possunt sa 
+          <lb ed="#U" n="2"/>pientem reddere ad salutem perfidem quae est in 
+          <lb ed="#U" n="3"/>Christo Iesu. Omnis Scriptura est diuinitus in 
+          <lb ed="#U" n="4"/>spirata &amp; vtilis ad doctrinam, ad redargutionem, 
+          <lb ed="#U" n="5"/>ad correctionem, ad institutionem quae est in iu 
+          <lb ed="#U" n="6"/>stitia: vt perfectus sit homo Dei, ad omne opus 
+          <lb ed="#U" n="7"/>bonum perfecte instructus.
+          </p>
+          <p>
+          <lb ed="#U" n="8"/>Si ea vis est Scripturae vt hominem sapien 
+          <lb ed="#U" n="9"/>tem ad salutem perfectum &amp; perfecte instructum 
+          <lb ed="#U" n="10"/>constituat: certe in causa fidei debemus esse con 
+          <lb ed="#U" n="11"/>tenti Scriptura. 
+          <lb ed="#U" n="12"/>At verum est antecedens. 
+          <lb ed="#U" n="13"/>Verum igitur &amp; consequens.
+        </p>
+        <p>
+          <lb ed="#U" n="14"/>Connexum hypotheticum manifestum 
+          <lb ed="#U" n="15"/>est propter naturam perfectionis. Nam si 
+          <lb ed="#U" n="16"/>Scriptura nos reddit perfectos, quorsum tra 
+          <lb ed="#U" n="17"/>ditio non scripta? huc spectat enumeratio  
+          <lb ed="#U" n="18"/>a Paulo proposita. Assumptum sibi fidem fa 
+          <lb ed="#U" n="19"/>cit ex Apostoli loco. Dicent fortasse Ponti 
+          <lb ed="#U" n="20"/>ficij Paulum loqui de scriptis veteris Testa 
+          <lb ed="#U" n="21"/>menti, quippe quae Timotheus a puero didi 
+          <lb ed="#U" n="22"/>cerat. Verum enimuero quum addit Pau 
+          <lb ed="#U" n="23"/>lus, per fidem quae est in Christo lesu, satis 
+          <lb ed="#U" n="24"/>declarat ad cognitonem veteris Testamen 
+          <lb ed="#U" n="25"/>ti doctrinam Euangelicam accessisse. At e 
+          <lb ed="#U" n="26"/>nim, inquis, tunc Euangelii doctrina non  
+          <lb ed="#U" n="27"/>erat conscripta, sed tradita tantum viua vo 
+          <lb ed="#U" n="28"/>ce. Primum vnde id tandem colligis? Con 
+          <lb ed="#U" n="29"/>stat enim ex cap. 4. illius Epistolae, Paulum 
+          <lb ed="#U" n="30"/>eam scripsisse sub ipsum tempus mortis. lam 
+          <!--056.xml-->
+          <pb ed="#U" n="35"/>
+          <lb ed="#U" n="1"/>si rationem temporum accurate subducas, 
+          <lb ed="#U" n="2"/>facile cognosces, tunc cum Epistola haec 
+          <lb ed="#U" n="3"/>data fuit, scripta Apostolica aut omnia aut 
+          <lb ed="#U" n="4"/>certe propemodum omnia extitisse. Dein 
+          <lb ed="#U" n="5"/>de quid refert si tunc Euangelii doctrina 
+          <lb ed="#U" n="6"/>scripta nondum fuisset, quandoquidem con  
+          <lb ed="#U" n="7"/>stat postea fuisse scriptam? Denique si vis  
+          <lb ed="#U" n="8"/>Paulum illic loqui de scriptis veteris Testa 
+          <lb ed="#U" n="9"/>menti, ego fortius astringam argumentum 
+          <lb ed="#U" n="10"/>hoc modo: Si scripta veteris Testamenti po 
+          <lb ed="#U" n="11"/>terant reddere homines sapientes ad salutem, 
+          <lb ed="#U" n="12"/>quanto id magis praestabit vniuersa Scriptu 
+          <lb ed="#U" n="13"/>ra veteris ac noui Testamenti? Sed omnino 
+          <lb ed="#U" n="14"/>qui negauerit hanc auream Pauli senten 
+          <lb ed="#U" n="15"/>tiam de Scriptura sacra (nempe quod sit di 
+          <lb ed="#U" n="16"/>uinitus inspirata &amp; vtilis ad doctrinam, &amp; c. 
+          <lb ed="#U" n="17"/>ad Scripturam noui Testamenti pertinere, 
+          <lb ed="#U" n="18"/>is non modo ex Theologorum choro tol  
+          <lb ed="#U" n="19"/>lendus fuerit, verum etiam e Christiano 
+          <lb ed="#U" n="20"/>rum numero expungendus. Neque nobis  
+          <lb ed="#U" n="21"/>negotium faciant ex eo quod vetus inter 
+          <lb ed="#U" n="22"/>pres paratum dixerit, non, perfecte instru 
+          <lb ed="#U" n="23"/>ctum. Nam, vt omittam nihil propterea ar 
+          <lb ed="#U" n="24"/>gumento nostro decedere, certe vocabu  
+          <lb ed="#U" n="25"/>lum ααπυτιςικινθ&amp; perfectionem significat. vt  
+          <lb ed="#U" n="26"/>&amp; Act. 21. v.5. explere dies, έξαντιται. sic com 
+          <lb ed="#U" n="27"/>positum aliud, Matth. 21. Ex ore infantium 
+          <lb ed="#U" n="28"/>perfecisti laudem, vανοτιςe. 1. Thess. 3. v. 
+          <lb ed="#U" n="29"/>10. quae desunt fidei vestrae complere, μαται 
+          <lb ed="#U" n="30"/>τοσαι. &amp; Heb. 12. v. 21.
+        </p>
+        </div>
+        <div>
+          <head>Locus 6</head>
+          <p>
+          <!--057.xml-->
+          <pb ed="#U" n="36"/>
+            <lb ed="#U" n="1"/>Scrutamini Scripturas, nam existimatis vi 
+            <lb ed="#U" n="2"/>tam eternam in ipsis habere.
+          </p>
+          <p>
+            <lb ed="#U" n="3"/>Si veteres sub lege constituti existimabant,  
+            <lb ed="#U" n="4"/>&amp; quidem recte, se vitam aeternam habere in Scri 
+            <lb ed="#U" n="5"/>pturis: hoc est, ea contineri Scripturis quarum 
+            <lb ed="#U" n="6"/>cognitione &amp; fide vitam aeternam adipisceren 
+            <lb ed="#U" n="7"/>tur: certe maiori ratione nos hodie idem crede 
+            <lb ed="#U" n="8"/>re debemus sub Evangelio constituti, postquam 
+            <lb ed="#U" n="9"/>ad scripta veteris Testamenti, scripta Apostoli 
+            <lb ed="#U" n="10"/>ca veritatem veteris Testamenti explicantia 
+            <lb ed="#U" n="11"/>&amp; exhibentia accesserunt. 
+            <lb ed="#U" n="12"/>Verum est autem antecedens. 
+            <lb ed="#U" n="13"/>Quaere ne de consequentis quidem veritate  
+            <lb ed="#U" n="14"/>dubitandum est.
+          </p>
+          <p>
+            <lb ed="#U" n="15"/>Connexum hypotheticum confirmat vis  
+            <lb ed="#U" n="16"/>comparationis: quoquidem ratiocinandi  
+            <lb ed="#U" n="17"/>genere &amp; Christus ipse &amp; Apostoli saepe v 
+            <lb ed="#U" n="18"/>si sunt. Nec ipsi Pontificij negant scripta 
+            <lb ed="#U" n="19"/>noui Testamenti esse veteris Testamenti 
+            <lb ed="#U" n="20"/>scriptis augustiora.
+          </p>
+          <p>
+            <lb ed="#U" n="21"/>Assumptum probatur expressis Christi 
+            <lb ed="#U" n="22"/>verbis. Tantum enim abest vt Christus lu  
+            <lb ed="#U" n="23"/>daeos propterea reprehendat vt potius inde 
+            <lb ed="#U" n="24"/>ratiocinetur.
+          </p>
+        </div>
+        <div>
+          <head>Locus 7</head>
+          <p>
+            <lb ed="#U" n="25"/>Vt discatis supra id quod scriptum est non 
+            <lb ed="#U" n="26"/>sapere.
+          </p>
+          <p>
+            <lb ed="#U" n="27"/>Si non debemus sapere supra id quod scriptum 
+            <lb ed="#U" n="28"/>est, &amp; dogmata fidei ad veram sapientiam per 
+            <lb ed="#U" n="29"/>tinent: certe debemus in causa fidei esse con 
+            <!--058.xml-->
+            <pb ed="#U" n="37"/>
+            <lb ed="#U" n="1"/>tenti Scriptura. 
+            <lb ed="#U" n="2"/>Antecedens verum est. 
+            <lb ed="#U" n="3"/>Verum igitur &amp; consequens.
+          </p>
+          <p>
+            <lb ed="#U" n="4"/>Connexum hypotheticum per se patet.  
+            <lb ed="#U" n="5"/>Assumptum probat Apostoli locus. Fa 
+            <lb ed="#U" n="6"/>teor locum hunc aliter exponi a quibusdam  
+            <lb ed="#U" n="7"/>recentioribus: nempe de iis quae Paulus ipse an 
+            <lb ed="#U" n="8"/>te scripserat. quem sensum si quis malit se 
+            <lb ed="#U" n="9"/>qui, tum haec erit vis argumenti nostri, Si Pau 
+            <lb ed="#U" n="10"/>lus ad sua scripta Corinthios reuocat, quan  
+            <lb ed="#U" n="11"/>to magis ad vniuersam Scripturam sumus re 
+            <lb ed="#U" n="12"/>uocandi? Sed quia veteres (quos Pontificij 
+            <lb ed="#U" n="13"/>sequi solent) generaliter locum Pauli intel  
+            <lb ed="#U" n="14"/>ligunt malui ex hac veterum interpretatio 
+            <lb ed="#U" n="15"/>ne argumentari. Potest etiam confici syl  
+            <lb ed="#U" n="16"/>logismus δεxτικως in media figura, quia ne 
+            <lb ed="#U" n="17"/>gat op iςις in hunc modum.
+          </p>
+          <p>
+            <lb ed="#U" n="18"/>Quisquis dogmata fidei statuit ex traditio 
+            <lb ed="#U" n="19"/>nibus no scriptis, sapit supra id quod scriptum est. 
+            <lb ed="#U" n="20"/>Nullus vere Christianae &amp; Apostolicae do 
+            <lb ed="#U" n="21"/>ctrinae obediens sapit supra id quod scriptum est. 
+            <lb ed="#U" n="22"/>Quare nullus vere Christianae &amp; Apostoli 
+            <lb ed="#U" n="23"/>cae doctrinae obediens dogmata fidei statuit ex 
+            <lb ed="#U" n="24"/>traditionibus non scriptis.
+          </p>
+        </div>
+        <div>
+          <head>Locus 8</head>
+          <p>
+            <lb ed="#U" n="25"/>Multa alia signa edidit Iesus quae non sunt  
+            <lb ed="#U" n="26"/>scripta in hoc libro: haec autem scripta sunt vt  
+            <lb ed="#U" n="27"/>credatis Iesum esse Christum Filium Dei, &amp; cre  
+            <lb ed="#U" n="28"/>dentes vitam aeternam habeatis, per nomen ipsius.
+          </p>
+          <p>
+            <lb ed="#U" n="29"/>Si Apostoli &amp; Euangelistae ea scripserunt quae 
+            <lb ed="#U" n="30"/>visa sunt necessaria, vt iis credentes vitam ha 
+            <!--059.xml-->
+            <pb ed="#U" n="38"/>
+            <lb ed="#U" n="1"/>beamus, certe dogmata fidei statuenda sunt ex 
+            <lb ed="#U" n="2"/>Scriptura, non autem ex traditionibus no scri 
+            <lb ed="#U" n="3"/>ptis quas Pontificii Apostolicas appellant. 
+            <lb ed="#U" n="4"/>Antecedens verum est. 
+            <lb ed="#U" n="5"/>Verum igitur &amp; consequens.
+          </p>
+          <p>
+            <lb ed="#U" n="6"/>Connexi hypothetici veritas in prom 
+            <lb ed="#U" n="7"/>ptu est, nisi forte quis se Apostolis &amp; Euan 
+            <lb ed="#U" n="8"/>gelistis sapientiorem existimet, quod ab sit.
+          </p>
+          <p>
+            <lb ed="#U" n="9"/>Assumptum probatur verbis Ioannis.
+          </p>
+        </div>
+        <div>
+          <head>Locus 9</head>
+          <p>
+            <lb ed="#U" n="10"/>Lex Dei perfecta ect, vitam restituens, ve 
+            <lb ed="#U" n="11"/>ram sapientiam suppeditans hominibus, recta, iusta, 
+            <lb ed="#U" n="12"/>auro pretiosior, melle dulcior, Ecclesiae sapientia 
+            <lb ed="#U" n="13"/>&amp; intelligentia, &amp; qui in ea meditatur bea 
+            <lb ed="#U" n="14"/>tus est.
+          </p>
+          <p>
+            <lb ed="#U" n="15"/>Si Scriptura veteris Testamenti fuit in suo 
+            <lb ed="#U" n="16"/>genere perfecta, quippe quae veram sapientiam 
+            <lb ed="#U" n="17"/>contineret, &amp; beatos praestaret quotquot ex a 
+            <lb ed="#U" n="18"/>nimo &amp; constanter eam meditabantur: certe  
+            <lb ed="#U" n="19"/>postquam ad vetus Testamentum Apostolica 
+            <lb ed="#U" n="20"/>scripta accesserunt, ipsius veteris Testamenti 
+            <lb ed="#U" n="21"/>veritatem plene explicantia &amp; exhibentia, 
+            <lb ed="#U" n="22"/>optimo iure tota Scriptura veteris &amp; noui Te 
+            <lb ed="#U" n="23"/>stamenti dicetur perfecta, vt quae doctrinam Ec 
+            <lb ed="#U" n="24"/>clesiae necessariam perfecte contineat.
+            <lb ed="#U" n="25"/>Verum est autem antecedens. 
+            <lb ed="#U" n="26"/>Quare verum est etiam consequens.
+          </p>
+          <p>
+            <lb ed="#U" n="27"/>Connexum hypotheticum patet.
+          </p>
+          <p>
+            <lb ed="#U" n="28"/>Assumptum probatur ex locis citatis.  
+            <lb ed="#U" n="29"/>Nam nomen Legis saepe intelligendum esse
+            <lb ed="#U" n="30"/>de tota Scriptura veteris Testamenti per
+            <!--060.xml-->
+            <pb ed="#U" n="39"/>
+            <lb ed="#U" n="1"/>spicuum est ex Apostolo ad Galatas, &amp; lo 
+            <lb ed="#U" n="2"/>corum superiorum circunstantiae id mani 
+            <lb ed="#U" n="3"/>feste postulant.
+          </p>
+          <p>
+            <lb ed="#U" n="4"/>Ex his omnibus locis &amp; consimilibus col  
+            <lb ed="#U" n="5"/>ligemus veram definitionem Scripturae in 
+            <lb ed="#U" n="6"/>hunc modum.
+          </p>
+          <p>
+            <lb ed="#U" n="7"/>Scriptura sacra est verbum a Dei diuinitus  
+            <lb ed="#U" n="8"/>inspiratum, &amp; a Prophetis, Apostolis &amp; E 
+            <lb ed="#U" n="9"/>uangelistis Spiritus Dei afflatu perscriptum in 
+            <lb ed="#U" n="10"/>libris Canonicis veteris &amp; noui Testamenti 
+            <lb ed="#U" n="11"/>ut Dei veritas ab hominum obliuione &amp; cor  
+            <lb ed="#U" n="12"/>ruptelis vindicaretur &amp;e Ecclesia perfecte 
+            <lb ed="#U" n="13"/>institueretur ac confirmaretur in iis omnibus 
+            <lb ed="#U" n="14"/>quorum agnitio &amp; fides ad salutem aeternam 
+            <lb ed="#U" n="15"/>necessaria est.
+          </p>
+          <p>
+            <lb ed="#U" n="16"/>Haec definitio est vera &amp; vere επαδις con 
+            <lb ed="#U" n="17"/>stat genere &amp; differentia: &amp; praeterea con  
+            <lb ed="#U" n="18"/>tinet omnes causas tam subiecti quam attri 
+            <lb ed="#U" n="19"/>buti, praesertim efficientem (cui subiicitur 
+            <lb ed="#U" n="20"/>etiam instrumentalis) &amp; finalem: quae duae cau  
+            <lb ed="#U" n="21"/>sae in eiusmodi rebus sunt in primis consi 
+            <lb ed="#U" n="22"/>derandae. Spiritus Dei est causa efficiens 
+            <lb ed="#U" n="23"/>isque vsus est Prophetis &amp; Apostolis tan 
+            <lb ed="#U" n="24"/>quam instrumentis. Conseruatio veritatis &amp; 
+            <lb ed="#U" n="25"/>institutio confirmatioque Ecclesiae est finis  
+            <lb ed="#U" n="26"/>propter quem verbum Dei literis fuit con  
+            <lb ed="#U" n="27"/>signatum. Itaque haec definitio constat suis  
+            <lb ed="#U" n="28"/>partibus, &amp; definitum ac definitio mutuo  
+            <lb ed="#U" n="29"/>conuertuntur.
+          </p>
+          <p>
+            <lb ed="#U" n="30"/>Iam ex hac definitione tanquam medio 
+            <lb ed="#U" n="31"/>perfecte &amp; ταικη constituamus nostram 
+            <!--061.xml-->
+            <pb ed="#U" n="40"/>
+            <lb ed="#U" n="1"/>ατοδειθς, hoc modo.
+          </p>
+          <p>
+            <lb ed="#U" n="2"/>Quicquid est verbum Dei diuinitus inspi 
+            <lb ed="#U" n="3"/>ratum &amp; a Prophetis, Apostolis &amp; Euangeli  
+            <lb ed="#U" n="4"/>stis Spiritus Dei afflatu perscriptum, &amp;c. Id  
+            <lb ed="#U" n="5"/>continet omnia dogmata fidei Christianae ne 
+            <lb ed="#U" n="6"/>cessaria.
+          </p>
+          <p>
+            <lb ed="#U" n="7"/>At Scriptura sacra est verbum Dei diuini 
+            <lb ed="#U" n="8"/>tus inspiratum, &amp;c
+          </p>
+          <p>
+            <lb ed="#U" n="9"/>Quaere Scriptura sacra continet omnia dog 
+            <lb ed="#U" n="10"/>mata fidei Christianae necessaria.
+          </p>
+          <p>
+            <lb ed="#U" n="11"/>Haec αποδεικς est euidens &amp; necessaria, vt  
+            <lb ed="#U" n="12"/>quae nitatur superiorum locorum firma 
+            <lb ed="#U" n="13"/>mentis continentque verum ξν Attributi 
+            <lb ed="#U" n="14"/>primarij nostrae quaestionis. Cur enim Scri 
+            <lb ed="#U" n="15"/>ptura continet ea omnia quorum cognitio 
+            <lb ed="#U" n="16"/>&amp; fides ad salutem est necessaria? nempe 
+            <lb ed="#U" n="17"/>quia est verbum Dei ab Apostolis &amp; Pro 
+            <lb ed="#U" n="18"/>phetis in eum finem conscriptum, vt Eccle  
+            <lb ed="#U" n="19"/>sia perfecte institueretur &amp;c. ltemque omnia 
+            <lb ed="#U" n="20"/>sunt reciproca. Siquis enim quaerat quaenam 
+            <lb ed="#U" n="21"/>sint ea, quorum cognitio &amp; fides est neces  
+            <lb ed="#U" n="22"/>saria ad salutem, proferam Scripturam. Et  
+            <lb ed="#U" n="23"/>vicissim quum propono Scripturam, ea o 
+            <lb ed="#U" n="24"/>mnia propono quorum cognitio &amp; fides  
+            <lb ed="#U" n="25"/>est ad salutem necessaria. Idem dicendum 
+            <lb ed="#U" n="26"/>est de Medio quod est ipsius Scripturae de 
+            <lb ed="#U" n="27"/>finitio, vt dictum est. Quare haec nostra de 
+            <lb ed="#U" n="28"/>monstratio in media veritatis luce versatur,  
+            <lb ed="#U" n="29"/>&amp; nostrae sententiae veritatem extra omnem 
+            <lb ed="#U" n="30"/>dubitationem constituit: nempe Scripturam 
+            <lb ed="#U" n="31"/>sacram continere omnia dogmata fidei Christia 
+            <lb ed="#U" n="32"/>nae necessaria. quod erat demonstrandum.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

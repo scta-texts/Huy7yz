@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 1 [Morges 1580 Transcription]</title>
+        <author ref="#AntoineDeChandieu">Antoine de Chandieu</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 1 [Morges 1580 Transcription]</title>
+          <date when="2019-06-30">June 30, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-uySe7d">Morges 1580</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="21"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="Huy7yz-d1e76">
+        <head>Caput 1 [Morges 1580 Transcription]</head>
+        <head type="question-title">Deus multis vicibus multisque modis olim loquutus Patribus per Prophetas, 
+          ultimis, diebus hisce loquutus est nobis per Filium</head>
+        <p>
+          <!--042.xml-->
+          <pb ed="#U" n="21"/>
+          <lb ed="#U" n="1"/>QVvm Tertullianus in aciem 
+          <lb ed="#U" n="2"/>disputationis prodiret, sole 
+          <lb ed="#U" n="3"/> bat summam quaestionis (sic 
+          <lb ed="#U" n="4"/>enim ipse loquitur) certis lin 
+          <lb ed="#U" n="5"/>neis determinate &amp; gradum 
+          <lb ed="#U" n="6"/>conferre, ne extra rem ipsam vagari liceret.  
+          <lb ed="#U" n="7"/>Quod vt etiam ipsi faciamus primum om 
+          <lb ed="#U" n="8"/>nium proponemus nostram, hoc est Eccle  
+          <lb ed="#U" n="9"/>siae ex verbo Dei reformatae de ipso Dei 
+          <lb ed="#U" n="10"/>verbo sententiam. Haec autem est eiusmodi, 
+          <lb ed="#U" n="11"/>Omnia dogmata fidei Christianae necessaria in 
+          <lb ed="#U" n="12"/>Scriptura sacra contineri
+        </p>
+        <p>
+          <lb ed="#U" n="13"/>Hanc nostram sententiam sic exponimus 
+          <lb ed="#U" n="14"/>ex illo loco Epistolae ad Hebraeos, qui no 
+          <lb ed="#U" n="15"/>bis huiusce disputationis fontes aperuit.  
+          <lb ed="#U" n="16"/>Veteris Testamenti temporibus Deus lo 
+          <lb ed="#U" n="17"/>cutus est Patribus nostris multifariam multis  
+          <lb ed="#U" n="18"/>que modis. Nempe per oracula, visa, somnia, 
+          <lb ed="#U" n="19"/>per Vrim &amp; Thummim: denique per ipsos 
+          <lb ed="#U" n="20"/>Prophetas afflatu Spiritus Dei loquentes. l 
+          <lb ed="#U" n="21"/>psum autem Dei verbum eodem Spiritu di 
+          <!--043.xml-->
+          <pb ed="#U" n="22"/>
+          <lb ed="#U" n="1"/>ctante cum a Mose, tum ab aliis Prophetis 
+          <lb ed="#U" n="2"/>virisque sanctissimis fuit literis consigna 
+          <lb ed="#U" n="3"/>tum. Tandem nouissimis temporibus Iesus 
+          <lb ed="#U" n="4"/>Christus summus &amp; perfectissimus Ecclesiae 
+          <lb ed="#U" n="5"/>doctor mundo exhibitus, Apostolos viua 
+          <lb ed="#U" n="6"/>voce docuit &amp; Ecclesiae Christianae docto  
+          <lb ed="#U" n="7"/>res constituit, qui doctrinam Euangelij a 
+          <lb ed="#U" n="8"/>Christo receptam &amp; ab seipsis viua voce 
+          <lb ed="#U" n="9"/>traditam literis mandarunt. Quum igitur  
+          <lb ed="#U" n="10"/>verbum Dei sit mensura fidei nostrae, ipsum 
+          <lb ed="#U" n="11"/>que verbum extet in sanctissimis Scripturae 
+          <lb ed="#U" n="12"/>monimentis, efficitur omnia dogmata quae 
+          <lb ed="#U" n="13"/>sunt ad fidem salutemque Ecclesiae necessa 
+          <lb ed="#U" n="14"/>ria in Scriptura sacra contineri, &amp; quaecun 
+          <lb ed="#U" n="15"/>que Apostoli tradiderunt illa hodie nobis  
+          <lb ed="#U" n="16"/>in sola Scriptura quaerenda, nullasque alias 
+          <lb ed="#U" n="17"/>traditiones esse in causa fidei recipiendas, 
+          <lb ed="#U" n="18"/>Et quia similitudine res facilius explicari so  
+          <lb ed="#U" n="19"/>lent, propono simile ductum a Rege, qui e 
+          <lb ed="#U" n="20"/>dictum viua voce promulgandum ac dein 
+          <lb ed="#U" n="21"/>de perscribendum iussit, quod vbi factum 
+          <lb ed="#U" n="22"/>est non solent homines anxie &amp; curiose  
+          <lb ed="#U" n="23"/>quaerere ex iis qui ipsi promulgatiori in 
+          <lb ed="#U" n="24"/>terfuerunt, aut ex aliis audiuerunt, quidnam  
+          <lb ed="#U" n="25"/>edicto illo regio comprehendatur, quippe  
+          <lb ed="#U" n="26"/>quum extet perscriptum edictum, cui iam 
+          <lb ed="#U" n="27"/>stare &amp; fidem habere oporteat. lta affirmo 
+          <lb ed="#U" n="28"/>quando quidem verbum traditum &amp; promul  
+          <lb ed="#U" n="29"/>gatum ab Apostolis &amp; Euangelistis, ab iisdem 
+          <lb ed="#U" n="30"/>fuit literis mandatum, frustra &amp; temere ho 
+          <lb ed="#U" n="31"/>die alibi quaeri, quam in Scriptura, quidnam  
+          <!--044.xml-->
+          <pb ed="#U" n="23"/>
+          <lb ed="#U" n="1"/>Apostoli &amp; Euangelistae viua voce tradi 
+          <lb ed="#U" n="2"/>derint.
+        </p>
+        <p>
+          <lb ed="#U" n="3"/>At Pontificiorum sententia haec est.
+        </p>
+        <p>
+          <!-- edition has paragraph break here, but I think these should go together 
+      since the following seems to be kind of quote -->
+          <lb ed="#U" n="4"/>Non omnia dogmata fidei Christianae ne 
+          <lb ed="#U" n="5"/>cessaria in scriptura sacra contineri.
+        </p>
+        <p>
+          <lb ed="#U" n="6"/>Quam sententia ita exponunt. Licet ver 
+          <lb ed="#U" n="7"/>bum Dei sit mensura fidei nostrae, non tamen 
+          <lb ed="#U" n="8"/>omne Dei verbum extare in scriptura. Mul  
+          <lb ed="#U" n="9"/>ta enim ab Apostolis &amp; Euangelistis fuisse  
+          <lb ed="#U" n="10"/>viua voce tradita, quae tamen illi non scripse  
+          <lb ed="#U" n="11"/>rint. Praeterea Ecclesiam Catholicam (Ro 
+          <lb ed="#U" n="12"/>manam autem intelligunt) esse fretam Spiri 
+          <lb ed="#U" n="13"/>tu Dei duce, ita vt ipsa quoque possit ea tra 
+          <lb ed="#U" n="14"/>dere quae sunt ad fidem salutemque neces  
+          <lb ed="#U" n="15"/>saria. Quare vt habeamus plenum Dei ver 
+          <lb ed="#U" n="16"/>bum, Traditiones Apostolicas &amp; Ecclesia 
+          <lb ed="#U" n="17"/>sticas esse ad Scripturam sacram adiicien 
+          <lb ed="#U" n="18"/>das. Haec illi
+        </p>
+        <p>
+          <lb ed="#U" n="19"/>Ex quibus satis est perspicuum quisnam  
+          <lb ed="#U" n="20"/>sit controversiae status. Hoc est enim το απ 
+          <lb ed="#U" n="21"/>τοισον: An omne Dei verbum per Prophe 
+          <lb ed="#U" n="22"/>tas &amp; Apostolos traditum, nobisque ad salu 
+          <lb ed="#U" n="23"/>tem necessarium, in sacra Scriptura continea 
+          <lb ed="#U" n="24"/>tur, necne. Nos affirmamus: llli vero negant  
+          <lb ed="#U" n="25"/>αντηφθατικος. lta vt alteram tantum sententiam 
+          <lb ed="#U" n="26"/>esse veram oporteat, ex prima illa luce ra 
+          <lb ed="#U" n="27"/>tiocinationis, de re quaque veram esse affir 
+          <lb ed="#U" n="28"/>mationem aut negationem.
+        </p>
+        <p>
+          <lb ed="#U" n="29"/>Antequam autem aggrediamur confirma 
+          <lb ed="#U" n="30"/>re nostram sententiam, ipsi termini quaestio 
+          <lb ed="#U" n="31"/>nis nobis breuiter exponendi sunt. Verbum 
+          <!--045.xml-->
+          <pb ed="#U" n="24"/>
+          <lb ed="#U" n="1"/>Des intelligimus non verbum aeternum Fi 
+          <lb ed="#U" n="2"/>lium aeterni Patris nempe λοπονοθιςασιον (sic  
+          <lb ed="#U" n="3"/>enim veteres plerique loquuti sunt) sed ver 
+          <lb ed="#U" n="4"/>bum externum quo Deus voluntatem suam 
+          <lb ed="#U" n="5"/>hominibus patefecit: itaque addimus per 
+          <lb ed="#U" n="6"/>Prophetas &amp; Apostolos traditum: vt, quid  
+          <lb ed="#U" n="7"/>intelligamus per verbum Dei, magis perspi 
+          <lb ed="#U" n="8"/>cuum esse possit. Vocabulum autem Tra 
+          <lb ed="#U" n="9"/>dendi, το παναδλιδειας, referri quidem potest tam 
+          <lb ed="#U" n="10"/>ad verbum viua voce traditum, quam ad ver 
+          <lb ed="#U" n="11"/>bum scriptum, ut patet 2. Thess. 2. Tenete  
+          <lb ed="#U" n="12"/>inquit, traditam doctrinam, τος παταδειθος, quam 
+          <lb ed="#U" n="13"/>edocti estis, siue per sermonem, siue per e 
+          <lb ed="#U" n="14"/>pistolam nostram. Atque ita saepe veteres  
+          <lb ed="#U" n="15"/>ipsi loquuti sunt, vt suo loco videbimus. In  
+          <lb ed="#U" n="16"/>hac tamen quaestione ex vulgato loquendi 
+          <lb ed="#U" n="17"/>genere restringitur ad verbum illud quod  
+          <lb ed="#U" n="18"/>viua voce traditum est. Caeterum per Ver 
+          <lb ed="#U" n="19"/>bum Dei nobis ad salutem necessarium, intel 
+          <lb ed="#U" n="20"/>ligimus ea omnia quibus Deus nos iubet  
+          <lb ed="#U" n="21"/>certa fidei αxπγοθικις assentiri vt ita fidem ab  
+          <lb ed="#U" n="22"/>opinione, &amp; Christianae religionis dogma 
+          <lb ed="#U" n="23"/>ta a probabilibus hominum disputationi 
+          <lb ed="#U" n="24"/>bus ac placitis distinguamus. Postremo no 
+          <lb ed="#U" n="25"/>mine Scripturae sacrae, intelligimus omnes li  
+          <lb ed="#U" n="26"/>bros Canonicos veteris &amp; noui Testamen 
+          <lb ed="#U" n="27"/>ti. Atque haec quidem de nostrae quaestio 
+          <lb ed="#U" n="28"/>nis expositione nobis breuiter dicta sint.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
