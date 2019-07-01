@@ -48,8 +48,8 @@
     </front>
     <body>
       <div xml:id="Huy7yz-d1e154">
-        <head>Caput 6 [Morges 1580 Transcription]</head>
-        <p>
+        <head xml:id="Huy7yz-d1e154-Hd1e95">Caput 6 [Morges 1580 Transcription]</head>
+        <p xml:id="Huy7yz-d1e154-d1e98">
           <lb ed="#M" n="10"/>Vt Rerineus. Apostoli Exange 
           <lb ed="#M" n="11"/>lium praeconiauerunt, postea ve 
           <lb ed="#M" n="12"/>ro per Dei voluntatem in Scri 
@@ -62,7 +62,7 @@
           <lb ed="#M" n="19"/>ducabis, inquit Spiritus Dei: hoc est, de omni 
           <lb ed="#M" n="20"/>Scriptura Dominica manducate.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e124">
           <lb ed="#M" n="21"/>Terrui.rrtus. Aufer haereticis quae 
           <lb ed="#M" n="22"/>cum Ethnicis sapiunt, vt de Scripturis solis 
           <lb ed="#M" n="23"/>quaestiones suas sistant, &amp; stare non poterunt. 
@@ -79,29 +79,29 @@
           <lb ed="#M" n="3"/>nes scriptum esse: si non est scriptum, timeat vae il  
           <lb ed="#M" n="4"/>lud adijcientibus, aut detrabentibus, destinatum.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e159">
           <lb ed="#M" n="5"/>Portoeres. Necesse nobis est Scripturas 
           <lb ed="#M" n="6"/>sanctas in testimonium vocare: Sensus quippe  
           <lb ed="#M" n="7"/>nostri &amp; enarrationes sine his testibus, non ha 
           <lb ed="#M" n="8"/>bent fidem.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e170">
           <lb ed="#M" n="9"/>Iusterusiartrr. Iustinus confu 
           <lb ed="#M" n="10"/>giebat ad Scripturas, vt in omnibus tutus esset. 
           <lb ed="#M" n="11"/>AtiAratius. Sufficiunt sancta &amp; di 
           <lb ed="#M" n="12"/>uimitus inspirata Scripturae, ad veritatis indica 
           <lb ed="#M" n="13"/>tionem.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e184">
           <lb ed="#M" n="14"/>Hitarius. Bene habet vt is quae scripta 
           <lb ed="#M" n="15"/>sunt contenti simus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e191">
           <lb ed="#M" n="16"/>crr.1ttus. Non omnia quae fecit Domi 
           <lb ed="#M" n="17"/>nus scripta sunt, sed quae scribentes putauerunt 
           <lb ed="#M" n="18"/>sufficere, tam ad mores quam ad dogmata.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e200">
           <lb ed="#M" n="19"/>crrroostomus. Siquid vel discere, 
           <lb ed="#M" n="20"/>vel ignorare opus sit, in Scripturis discemus. 
           <lb ed="#M" n="21"/>ltem, Siquis eorum qui dicuntur habere Spi 
@@ -114,7 +114,7 @@
           <lb ed="#M" n="28"/>ad Scripturas, quia nulla alia probatio poterit  
           <lb ed="#M" n="29"/>esse verae Christianitatis, qua Scripturae diuinae.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e226">
           <lb ed="#M" n="30"/>Sasitius. Manifestissimum. infideli  
           <lb ed="#M" n="31"/>tatis argumentum, signumque superbiae certis  
           <!--137.xml-->
@@ -130,7 +130,7 @@
           <lb ed="#M" n="9"/>terdicit nequid eorum quae in Diuinis literis ha 
           <lb ed="#M" n="10"/>bentur, deleatur, aut, quod absit addatur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e259">
           <lb ed="#M" n="11"/>ltem, Si omne quod ex fide non est, pecca 
           <lb ed="#M" n="12"/>tum est, fides autem ex auditu, auditus autem  
           <lb ed="#M" n="13"/>per verbum Dei: sine dubio, cum quicquid ex 
@@ -146,7 +146,7 @@
           <lb ed="#M" n="23"/>mus a Paulo traditam. Omnia mihi licent, sed  
           <lb ed="#M" n="24"/>non omnia expediunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e292">
           <lb ed="#M" n="25"/>Hieronruius: Ecclesia Christi in toto  
           <lb ed="#M" n="26"/>orbe Ecclesias possidens, Spiritus vnitate coniun 
           <lb ed="#M" n="27"/>cta est, &amp; habet vrbes Legis, Prophetarum, E 
@@ -161,7 +161,7 @@
           <lb ed="#M" n="3"/>pturis authoritatem non habet, eadem facilita 
           <lb ed="#M" n="4"/>te contemnitur, qua probatur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e324">
           <lb ed="#M" n="5"/>Auoeustirus. Nec ego Nicaenum, nec 
           <lb ed="#M" n="6"/>tu debes Ariminense tanquam praeiudicaturus 
           <lb ed="#M" n="7"/>proferre Concilium: nec ego huius authoritate,  
@@ -177,7 +177,7 @@
           <lb ed="#M" n="17"/>Scripturis sanctis &amp; in illis quid sit gravius ap 
           <lb ed="#M" n="18"/>pendamus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e357">
           <lb ed="#M" n="19"/>Dam nscetus. Vt arbor plantata secus 
           <lb ed="#M" n="20"/>decursus aquarum, sic anima trrigata diuina 
           <lb ed="#M" n="21"/>Scriptura, maturum affert fructum, fidem or 
@@ -186,15 +186,15 @@
           <lb ed="#M" n="24"/>uagelistassuscipimus, cognoscimus, veneramur.  
           <lb ed="#M" n="25"/>nihil ultra illa perquirentes.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e375">
           <lb ed="#M" n="26"/>Ac ne ipsos Scholasticos penitus negli  
           <lb ed="#M" n="27"/>gere videamur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e382">
           <lb ed="#M" n="28"/>Scotus. Patet quod Scriptura sufficien 
           <lb ed="#M" n="29"/>ter continet doctrinam necessariam viatori.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e389">
           <lb ed="#M" n="30"/>pete.est1iraco. Recurrendum 
           <lb ed="#M" n="31"/>est ad solas Scripturas vt vitam aeternam adi 
           <lb ed="#M" n="32"/>piscamur. Sic Gratianus in sua decreta retulit  
@@ -204,20 +204,20 @@
           <lb ed="#M" n="2"/>te recensuimus, &amp; fexcenta eiusmodi, ne logius 
           <lb ed="#M" n="3"/>in illam syluam progrediamur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e409">
           <lb ed="#M" n="4"/>Vt igitur hunc locum de obiectionibus 
           <lb ed="#M" n="5"/>Pontificiorum, quas illi depromunt ex ve 
           <lb ed="#M" n="6"/>terum scriptis, ttandem aliquando conclu 
           <lb ed="#M" n="7"/>damus, eas omnes vno enthymemate com 
           <lb ed="#M" n="8"/>prehendemus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e423">
           <lb ed="#M" n="9"/>Veteres Ecclesiae Doctores censuerunt, praeter 
           <lb ed="#M" n="10"/>Scripturam traditiones quoque non scriptas esse 
           <lb ed="#M" n="11"/>recipiendas. Ergo non omnia quae sunt ad fidem  
           <lb ed="#M" n="12"/>salutemque necessaria in Scriptura continentur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e434">
           <lb ed="#M" n="13"/>Expono Antecedens. Nam ex iis veterum  
           <lb ed="#M" n="14"/>testimoniis, quae nunc audiuimus satis est 
           <lb ed="#M" n="15"/>perspicuum, veteres non vno tantum mo 
@@ -247,7 +247,7 @@
           <lb ed="#M" n="7"/>Ex quo apparet Pontificios falsam hypothe 
           <lb ed="#M" n="8"/>sin sumpsisse. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e497">
           <lb ed="#M" n="9"/>ltaque nego consequens. Error est 
           <lb ed="#M" n="10"/>το αηρα τος λελνιος, siquidem ratiocinantur ex 
           <lb ed="#M" n="11"/>dictis veterum perperam intellectis. Alius 
@@ -266,7 +266,7 @@
           <lb ed="#M" n="24"/>Quare non satis recte Pontificii disputant,  
           <lb ed="#M" n="25"/>το οb ανκης αετομενοις 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e536">
           <lb ed="#M" n="26"/>Quare ita corrigendus est error superio  
           <lb ed="#M" n="27"/>ris conclusionis. Quandoquidem omnium 
           <lb ed="#M" n="28"/>veterum Doctorum scripta ad sacrae scriptu 
@@ -286,7 +286,7 @@
           <lb ed="#M" n="8"/>tur, quatenus fifrmamentum habebit in Scri 
           <lb ed="#M" n="9"/>ptura.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e578">
           <lb ed="#M" n="10"/>Quia vero de solis dogmatibus ad fidem  
           <lb ed="#M" n="11"/>salutemque necessariis, nostra haec instituta 
           <lb ed="#M" n="12"/>est disputatio, ne videamur vagari extra 
@@ -296,7 +296,7 @@
           <lb ed="#M" n="16"/>larit, &amp; Dominus concesserit, in aliud tem 
           <lb ed="#M" n="17"/>pus differemus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e598">
           <lb ed="#M" n="18"/>Haec habui quae disputarem de verbo Dei 
           <lb ed="#M" n="19"/>scripto adversus humanas traditiones ex 
           <lb ed="#M" n="20"/>doctissimorum hominum scriptis collecta: 
@@ -317,11 +317,11 @@
           <lb ed="#M" n="3"/>mata, ac propterea orthodoxa, vereque Ca 
           <lb ed="#M" n="4"/>tholica Ecclesia profitetur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e643">
           <lb ed="#M" n="5"/>Omnia dogmata fidei Christianae necessaria 
           <lb ed="#M" n="6"/>in Scriptura sacra continert
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e154-d1e650">
           <lb ed="#M" n="7"/>Laus Deo.
         </p>
       </div>

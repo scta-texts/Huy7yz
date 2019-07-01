@@ -48,8 +48,8 @@
     </front>
     <body>
       <div xml:id="Huy7yz-d1e116">
-        <head>Caput 4 [Morges 1580 Transcription]</head>
-        <p>
+        <head xml:id="Huy7yz-d1e116-Hd1e95">Caput 4 [Morges 1580 Transcription]</head>
+        <p xml:id="Huy7yz-d1e116-d1e98">
           <!--078.xml-->
           <pb ed="#M" n="57"/>
           <lb ed="#M" n="1"/>Vperior nostra disputatio sen 
@@ -72,7 +72,7 @@
           <lb ed="#M" n="18"/>illi nobis obiiciunt, accedemus. Prima Pon 
           <lb ed="#M" n="19"/>tificiorum obiectio est huiusmodi.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e146">
           <lb ed="#M" n="20"/>Euangelii doctrina fuit non atramento,  
           <lb ed="#M" n="21"/>sed Spiritu Dei, non in tabulis lapideis, sed in 
           <lb ed="#M" n="22"/>corde inscribenda. Ergo ad doctrinam viua  vo 
@@ -80,7 +80,7 @@
           <lb ed="#M" n="24"/>haerendum praecise iis quae ab ipsis Apostolis con 
           <lb ed="#M" n="25"/>scripta sunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e162">
           <lb ed="#M" n="26"/>Antecedens patet ex Ieremia. Hoc est foe 
           <lb ed="#M" n="27"/>dus quod paciscar cum domo Tsrael, Indam le 
           <lb ed="#M" n="28"/>ges meas menti eorum &amp; cordi eorum inscribam, 
@@ -92,14 +92,14 @@
           <lb ed="#M" n="3"/>mento, sed Spiritu Dei viui, non in tabulis lapi 
           <lb ed="#M" n="4"/>deis, sed in carneis tabulis cordis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e186">
           <lb ed="#M" n="5"/>Vt ordine respondeamus, primum nobis  
           <lb ed="#M" n="6"/>excutiendum est Antecedens, tum ad Con 
           <lb ed="#M" n="7"/>sequens deueniendum: atque hunc ordinem 
           <lb ed="#M" n="8"/>deinceps seruabimus, ad iuuandam lectorum  
           <lb ed="#M" n="9"/>memoriam. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e200">
           <lb ed="#M" n="10"/>Expono igitur Antecedens, de quo video  
           <lb ed="#M" n="11"/>non satis conuenire, ne inter ipsos quidem  
           <lb ed="#M" n="12"/>Scholasticos Pontificios. Cum enim Apo 
@@ -148,15 +148,15 @@
           <lb ed="#M" n="22"/>praecepta ex lege Dei proponeret, iubebat  
           <lb ed="#M" n="23"/>ea in tabulis cordis inscribenda.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e304">
           <lb ed="#M" n="24"/>Atque haec de Antecedente, vbi Pontificii 
           <lb ed="#M" n="25"/>committunt errorem το πζος τ ααλως λογομεινς.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e311">
           <lb ed="#M" n="26"/>Itaque nego Consequens, cuius varios er 
           <lb ed="#M" n="27"/>rores sigillatim recensebo.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e318">
           <lb ed="#M" n="28"/>1. Error παοα το εποαονον. Non. n. sequitur:  
           <lb ed="#M" n="29"/>doctrina Legis fuit scripta in tabulis, ergo 
           <lb ed="#M" n="30"/>doctrina Euagelij non est scripta. ltem: Euange 
@@ -178,7 +178,7 @@
           <lb ed="#M" n="13"/>Euagelij doctrina scripta est in tabulis. Ma 
           <lb ed="#M" n="14"/>ior propositio falsa est.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e364">
           <lb ed="#M" n="15"/>Secundus error πανοα ποςκημα τος λοξσας con 
           <lb ed="#M" n="16"/>fundunt enim homonyma cum synonymis 
           <lb ed="#M" n="17"/>Scribere in tabulis, proprie dicitur: at scri  
@@ -205,7 +205,7 @@
           <lb ed="#M" n="5"/>los non omnia ad salutem necessaria scri 
           <lb ed="#M" n="6"/>psisse, laborant profecto αεοςια αλανοιας.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e421">
           <lb ed="#M" n="7"/>Tertius error, quod faciunt subordinata  
           <lb ed="#M" n="8"/>pugnare atque opponunt causam efficien 
           <lb ed="#M" n="9"/>tem causae instrumentali. Deus enim is est 
@@ -226,7 +226,7 @@
           <lb ed="#M" n="24"/>mentibus, ergo Apostoli non scripserunt  
           <lb ed="#M" n="25"/>in tabulis totam Euangelij doctrinam.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e466">
           <lb ed="#M" n="26"/>Quartus error, quod illorum Conse 
           <lb ed="#M" n="27"/>quens non satis conuenit cum Anteceden 
           <lb ed="#M" n="28"/>te. Nam si in Antecedente, opponunt Scri 
@@ -257,7 +257,7 @@
           <lb ed="#M" n="18"/>ra visibilis Apostolorum ad Scripturam in 
           <lb ed="#M" n="19"/>uisibilem Spiritus sancti.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e531">
           <lb ed="#M" n="20"/>Quintus errori, παα τον απιοιαν παολογικον, 
           <lb ed="#M" n="21"/>quia supponunt alia vocabula quam quae, a 
           <lb ed="#M" n="22"/>Paulo vsurpata sunt. Sic enim Paulus, scri 
@@ -270,13 +270,13 @@
           <lb ed="#M" n="29"/>quidem est longe a Pauli tum verbis, tum 
           <lb ed="#M" n="30"/>mente resilire.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e557">
           <lb ed="#M" n="31"/>Nunc istud Consequens Pontificiorum 
           <!--086.xml-->
           <pb ed="#M" n="63"/>
           <lb ed="#M" n="1"/>αταλλοπιςον iugulemus absurdis &amp; incommodis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e568">
           <lb ed="#M" n="2"/>Si non est praecise haerendum scriptis Aposto 
           <lb ed="#M" n="3"/>licis, quia Deus scribit Exangelium in animis  
           <lb ed="#M" n="4"/>piorum, sequeretur scripta Apostolica non esse  
@@ -290,7 +290,7 @@
           <lb ed="#M" n="12"/>uelleretur sacrae Scripturae authoritas: quod 
           <lb ed="#M" n="13"/>absit.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e597">
           <lb ed="#M" n="14"/>Item, Si valet hoc Consequens, recurrendum 
           <lb ed="#M" n="15"/>esse etia ad traditiones non scriptas, quia Deus 
           <lb ed="#M" n="16"/>scribit Exagelium in animis suorum: sequere 
@@ -300,7 +300,7 @@
           <lb ed="#M" n="20"/>Dei inuisibilem, quam Sanctus spiritus impri 
           <lb ed="#M" n="21"/>mit in animis credentium. quod falsissimum est.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e617">
           <lb ed="#M" n="22"/>Item, Si recte concluditur ex loco Ieremiae 
           <lb ed="#M" n="23"/>non omnia quaead Euangelium pertinent esse 
           <lb ed="#M" n="24"/>scripta, eo quod Deus in nouo Testamento legem 
@@ -316,27 +316,27 @@
           <lb ed="#M" n="1"/>&amp; sit ipsorum Deus. quod perabsurdum est &amp; 
           <lb ed="#M" n="2"/>ατονοθοδον.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e651">
           <lb ed="#M" n="3"/>Denique retorqueamus hoc argumen 
           <lb ed="#M" n="4"/>tum Pontificiorum in ipsorum caput atque 
           <lb ed="#M" n="5"/>ita dicamus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e660">
           <lb ed="#M" n="6"/>Omnes Leges Dei scriptae sunt in animis 
           <lb ed="#M" n="7"/>piorum: vt dicunt Pontificij ex locis supra ci 
           <lb ed="#M" n="8"/>tatis. Non atramento, inquit Paulus, sed Spi 
           <lb ed="#M" n="9"/>ritu Dei.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e671">
           <lb ed="#M" n="10"/>Nullae Pontificiorum traditiones scriptae sunt  
           <lb ed="#M" n="11"/>in animis piorum. Sunt enim atramento quidem 
           <lb ed="#M" n="12"/>scriptae, sed non Spiritu Dei.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e680">
           <lb ed="#M" n="13"/>Quare nullae Pontificiorum traditiones sunt  
           <lb ed="#M" n="15"/>Leges Dei.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e687">
           <lb ed="#M" n="16"/>Ex quibus omnibus manifestum esse ar 
           <lb ed="#M" n="17"/>bitror, quam ineptum, vel nullum potius sit 
           <lb ed="#M" n="18"/>argumentum istud Pontificiorum: quod vt  
@@ -349,7 +349,7 @@
           <lb ed="#M" n="25"/>rum inscribit. Et de hac quidem obiectio 
           <lb ed="#M" n="26"/>ne hactenus. Pergunt illi hoc modo.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e713">
           <lb ed="#M" n="27"/>Ecclesia Christiana totos viginti annos ca 
           <lb ed="#M" n="28"/>ruit scriptis Apostolorum, ninurum eorum tra 
           <lb ed="#M" n="29"/>ditione contenta. Ergo scripta Apostolica non 
@@ -357,12 +357,12 @@
           <lb ed="#M" n="31"/>cesse est omnia ad Euangelij doctrinam perti 
           <lb ed="#M" n="32"/>gentia in scriptis Apostolicis contineri.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e730">
           <!--088.xml-->
           <pb ed="#M" n="65"/>
           <lb ed="#M" n="1"/>Antecedens patet ex loctione historiae.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e739">
           <lb ed="#M" n="2"/>Etsi nolo multum immorari in Antece Fest. 
           <lb ed="#M" n="3"/>dente, neque de numero annorum hic di 
           <lb ed="#M" n="4"/>sputo: tamen velim lectores meminisse Chri 
@@ -375,7 +375,7 @@
           <lb ed="#M" n="11"/>in aqua positum, adeo vt stare non possit il 
           <lb ed="#M" n="12"/>la conclusio quam astruunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e765">
           <lb ed="#M" n="13"/>Nego igitur Consequens. Error est παοα ανιοr ob 
           <lb ed="#M" n="14"/>το απνοιαν το αλογxς. Mutatur enim forma Prae iect. 
           <lb ed="#M" n="15"/>dicationis, &amp; fit transitus a praeterito tem 
@@ -400,7 +400,7 @@
           <lb ed="#M" n="1"/>necessaria ac olim fuit viuae vocis praedica 
           <lb ed="#M" n="2"/>tio, cuius locum supplent.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e817">
           <lb ed="#M" n="3"/>Abducamus ες αδενατον: Si valet illud Pon 
           <lb ed="#M" n="4"/>tificiorum consequens, valebit &amp; istud: Ec 
           <lb ed="#M" n="5"/>clesia Israelitica non viginti, sed bis mille an 
@@ -410,11 +410,11 @@
           <lb ed="#M" n="9"/>omnia quae ad veteris Testamenti doctrinam 
           <lb ed="#M" n="10"/>pertinebant. αδενατον,
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e837">
           <lb ed="#M" n="11"/>Rentorqueamus argumentum in Pontifi 
           <lb ed="#M" n="12"/>cios, hoc modos:
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e844">
           <lb ed="#M" n="13"/>Si Deus summe sapiens non passus est Ec 
           <lb ed="#M" n="14"/>clesiam Christianam diu carere scriptis Aposto 
           <lb ed="#M" n="15"/>licis, ut conseruandae Evangelicae veritati, &amp; i 
@@ -435,13 +435,13 @@
           <lb ed="#M" n="30"/>tius quam recurrat ad commentitias illas tra 
           <lb ed="#M" n="31"/>ditiones ab Apostolis non scriptas?
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e889">
           <!--090.xml-->
           <pb ed="#M" n="67"/>
           <lb ed="#M" n="1"/>Quamobrem argumentum Pontificiorum  
           <lb ed="#M" n="2"/>est απατητικιν: quod nos ita corrigamus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e900">
           <lb ed="#M" n="3"/>Primis Ecclesiae Christianae temporibus A 
           <lb ed="#M" n="4"/>postoli freti scriptis Propheticis, primum 
           <lb ed="#M" n="5"/>omnium viua voce docuerunt Euangelij do 
@@ -455,7 +455,7 @@
           <lb ed="#M" n="13"/>nimentis, dictante Spiritu sancto, consigna 
           <lb ed="#M" n="14"/>tam posteris tradiderunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e929">
           <lb ed="#M" n="15"/>Christus post resurrectionem perdies ao. cunm 
           <lb ed="#M" n="16"/>Apostolis versatus, ea docuit quae ad regnum Dei 
           <lb ed="#M" n="17"/>pertinent: nec constat ullis scriptis quaenam il 
@@ -464,14 +464,14 @@
           <lb ed="#M" n="20"/>quae non extant petenda sunt ex traditionibus 
           <lb ed="#M" n="21"/>non scriptis ab Apostolis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e947">
           <lb ed="#M" n="22"/>Antecedens patet ex 1. cap. Actorum, v.3.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e952">
           <lb ed="#M" n="23"/>Admitto Antecedentis priorem partem,  
           <lb ed="#M" n="24"/>nego posteriorem.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e959">
           <lb ed="#M" n="25"/>Nego itaque Consequens. Error est, peti 
           <lb ed="#M" n="26"/>tio principij. Vnde enim didicerunt, vel so 
           <lb ed="#M" n="27"/>mniarunt potius, ea quae tum Christus do 
@@ -486,7 +486,7 @@
           <lb ed="#M" n="3"/>se scripta erant: tantum abest vt ad traditio 
           <lb ed="#M" n="4"/>nes ααθας nos voluerit reuocare.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e991">
           <lb ed="#M" n="5"/>Abducamus ad incommodum. Si Chri 
           <lb ed="#M" n="6"/>stus post resurrectione docuit ea omnia quae per 
           <lb ed="#M" n="7"/>tinent ad regnum Dei (is enim videtur esse sen 
@@ -495,7 +495,7 @@
           <lb ed="#M" n="10"/>lis: ergo quae scripta sunt ab Apostolis ad regnum 
           <lb ed="#M" n="11"/>Dei non pertinent. αδενατον ac blasphemum.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1009">
           <lb ed="#M" n="12"/>Retorqueamus hoc modo, Si Apostoli ple 
           <lb ed="#M" n="13"/>ne a Christo instituti &amp; edocti in iis quae ad 
           <lb ed="#M" n="14"/>regnum Dei pertinent, de ipso Dei regno, dictan 
@@ -503,7 +503,7 @@
           <lb ed="#M" n="16"/>runt, nec aliquid omiserunt quod sit petendum 
           <lb ed="#M" n="17"/>ex traditionibus non scriptis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1025">
           <lb ed="#M" n="18"/>Vt igitur corrigamus illum errorem, di 
           <lb ed="#M" n="19"/>camus Christum vt Apostolos constitueret  
           <lb ed="#M" n="20"/>perfectos Ecclesiae Doctores, etiam post re 
@@ -515,18 +515,18 @@
           <lb ed="#M" n="26"/>rent literis ea omnia quae ad regnum Dei &amp; 
           <lb ed="#M" n="27"/>ad salutem Ecclesiae pertinent.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1049">
           <lb ed="#M" n="28"/>Paulus fatetur se scripsisse ex parte. Ergo  
           <lb ed="#M" n="29"/>Paulus non omnia scripsit quae sunt ad salutem  
           <lb ed="#M" n="30"/>Ecclesiae necessaria.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1058">
           <lb ed="#M" n="31"/>Antecedens patet Rom. 19. Audacius, inquit,  
           <!--092.xml-->
           <pb ed="#M" n="69"/>
           <lb ed="#M" n="1"/>vobis scripsi ex parte απο μερος.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1069">
           <lb ed="#M" n="2"/>Expono Antecedens. Paulus ait se auda 
           <lb ed="#M" n="3"/>cius quadantenus Romanis scripsisse: τζομη 
           <lb ed="#M" n="4"/>βοποον απομινος. Et illud, quadantenus (quod  
@@ -538,7 +538,7 @@
           <lb ed="#M" n="10"/>similis phrasis extat, 2. Cor. 2.3. Tristitiam 
           <lb ed="#M" n="11"/>attulit quadantenus vobis omnibus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1094">
           <lb ed="#M" n="12"/>Nego igitur Consequens. Est error tum 
           <lb ed="#M" n="13"/>τανα τοαημα τος λεδνας (ut ante dictum est) tum 
           <lb ed="#M" n="14"/>τανα το εποκινον. Paulus non omnia scripsit Ro 
@@ -550,16 +550,16 @@
           <lb ed="#M" n="20"/>tur. αποπιν &amp; indignum longiore respon 
           <lb ed="#M" n="21"/>sione.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1118">
           <lb ed="#M" n="22"/>Christus dixit Apostolis se multa haberedi 
           <lb ed="#M" n="23"/>cenda quae non poterant portare: Ergo Apostoli  
           <lb ed="#M" n="24"/>non omnia ad salutem necessaria scripserunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1127">
           <lb ed="#M" n="25"/>Antecedens continetur in Evangelio secuni 
           <lb ed="#M" n="26"/>dum Ioannem, cap. 16.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1134">
           <lb ed="#M" n="27"/>Expono Antecedens. Ac primum omnium 
           <lb ed="#M" n="28"/>demiror Pontificios ad eos scopulos nauem 
           <lb ed="#M" n="29"/>allisisse, ad quos veteres haeretici naufragium 
@@ -606,7 +606,7 @@
           <lb ed="#M" n="4"/>donis illustrati. Quod etiam facile colligi  
           <lb ed="#M" n="5"/>tur Ioan. 2. 22.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1234">
           <lb ed="#M" n="6"/>Venio ad Consequens, in quo ne vllam 
           <lb ed="#M" n="7"/>quidem veri speciem reperio, nedum vin 
           <lb ed="#M" n="8"/>culum Theologicae veritatis. Est error πα 
@@ -634,7 +634,7 @@
           <lb ed="#M" n="30"/>nuntiasse omne consilium Dei. Quod item fal 
           <lb ed="#M" n="31"/>sum esse docet ipse Paulus, Act. 2o. 2ι. &amp;c
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1293">
           <lb ed="#M" n="32"/>Retorqueamus, augumentum. Si Apostoli ol 
           <!--095.xml-->
           <pb ed="#M" n="72"/>
@@ -651,7 +651,7 @@
           <lb ed="#M" n="11"/>ipsis Apostolibus omnibus longe superio  
           <lb ed="#M" n="12"/>res, Quod absit vt credamus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1329">
           <lb ed="#M" n="13"/>Corrigamus illumierrorem hoc modo,  
           <lb ed="#M" n="14"/>Licet Apostoli ante missum Paracletum 
           <lb ed="#M" n="15"/>non essent satis capaces mysteriorum Dei 
@@ -663,17 +663,17 @@
           <lb ed="#M" n="21"/>tam &amp; literarum monimentis consigna 
           <lb ed="#M" n="22"/>tam.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1353">
           <lb ed="#M" n="23"/>Paulus laudat Ccrinthios quod ipsius tradi 
           <lb ed="#M" n="24"/>tiones retinerent. Ergo multa tradidit viua  vo 
           <lb ed="#M" n="25"/>ce quae non scripsit.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1362">
           <lb ed="#M" n="26"/>Antecedens patet. 1. Cor. 11. Laudo vos, in 
           <lb ed="#M" n="27"/>quit, quod omnia mea meministis &amp; sicut tra 
           <lb ed="#M" n="28"/>didi vobis traditiones retinetis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1371">
         <lb ed="#M" n="29"/>Excutio Antecedens. Locum illum Pau 
         <lb ed="#M" n="30"/>li Chrysostomus &amp; Ambrosius, nec non a 
         <lb ed="#M" n="31"/>liquot ex doctissimis recentioribus, intel 
@@ -711,7 +711,7 @@
           <lb ed="#M"/>tiam illic agi, nihilo plus efficient, vt nunc 
           <lb ed="#M"/>dicam. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1452">
           <!--097.xml-->
           <pb ed="#M" n="74"/>
           <lb ed="#M" n="1"/>Nego igitur consequens. Paulus multa 
@@ -745,7 +745,7 @@
           <lb ed="#M" n="31"/>ua voce, ergo non scripsit, is profecto nescit  
           <lb ed="#M" n="32"/>quid sit recte ratiocinari.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1524">
           <lb ed="#M" n="33"/>Abducamus ες αδενατον. Si ex eo quod Pau 
           <!--098.xml-->
           <pb ed="#M" n="75"/>
@@ -756,7 +756,7 @@
           <lb ed="#M" n="5"/>te, &amp; eiusmodi pleraeque, scriptae non sunt. quod  
           <lb ed="#M" n="6"/>falsum est, ex illo cap. 11. &amp;c
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1547">
           <lb ed="#M" n="7"/>Retorqueamus argumentum. Si traditio 
           <lb ed="#M" n="8"/>nes de quibus illic Paulus disputat, nempe de 
           <lb ed="#M" n="9"/>prophetando aperto capite, itemque de velan 
@@ -767,7 +767,7 @@
           <lb ed="#M" n="14"/>cij somniarunt absque verbo Dei, &amp; illis nome 
           <lb ed="#M" n="15"/>tantum Apostolorum pretexuerunt:
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1569">
           <lb ed="#M" n="16"/>Vt igitur corrigamus illum errorem, di 
           <lb ed="#M" n="17"/>cendum est Paulum in illa Ep. ad Cor. ea 
           <lb ed="#M" n="18"/>rum rerum memoriam refricare quas viua 
@@ -778,17 +778,17 @@
           <lb ed="#M" n="23"/>stolicis, ne nos hominum commenta ab  
           <lb ed="#M" n="24"/>Euangelica veritante abducant.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1591">
           <lb ed="#M" n="25"/>lubet Paulus Thessalonicenses tenere tradi 
           <lb ed="#M" n="26"/>tiones quas edocti fuerat, siue persermonem, si 
           <lb ed="#M" n="27"/>ue per epistolam. Ergo Paulus non omnes tra 
           <lb ed="#M" n="28"/>ditiones ad fidem necessarias literis man 
           <lb ed="#M" n="29"/>dauit.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1604">
           <lb ed="#M" n="30"/>Antecedens patet. 2. Thess. 2. v. 16. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1609">
           <lb ed="#M" n="31"/>Expono Antecedens. In his Pauli ver. R 
           <!--099.xml-->
           <pb ed="#M" n="76"/>
@@ -810,7 +810,7 @@
           <lb ed="#M" n="16"/>stro sermone quum coram essemus &amp; post 
           <lb ed="#M" n="17"/>ea nostris scriptis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1655">
           <lb ed="#M" n="18"/>Itaque nego Consequens. Errorem enim 
           <lb ed="#M" n="19"/>admittit ταοα το αημα της λελθος, quemadmo 
           <lb ed="#M" n="20"/>dum dixi. ltem πανα τοεποσιον multis modis, 
@@ -825,7 +825,7 @@
           <lb ed="#M" n="29"/>sequitur illa non fuisse scripta ab aliis, vt de 
           <lb ed="#M" n="30"/>Paptismo, Coena Domini, &amp;c.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1687">
           <lb ed="#M" n="31"/>Obruamus αδενατο. Si verum est, ex hoc lo 
           <!--100.xml-->
           <pb ed="#M" n="77"/>
@@ -848,7 +848,7 @@
           <lb ed="#M" n="17"/>censibus tradidisse. quod tamen contra esset, si 
           <lb ed="#M" n="18"/>quidem argumentum Pontificiorum valeret.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1735">
           <lb ed="#M" n="19"/>Retorqueamus argumentum. Si Thessa 
           <lb ed="#M" n="20"/>lonicenses plene instituti in religione Christiai 
           <lb ed="#M" n="21"/>nam, idque viua  voce Apostoli, nihilominus fue 
@@ -857,7 +857,7 @@
           <lb ed="#M" n="24"/>nos qui eorum Sacris concionibus non interfui 
           <lb ed="#M" n="25"/>mus, nec eorum viua voce fuimus institutie
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1753">
           <lb ed="#M" n="26"/>Corrigendus est igitur Pontificiorum 
           <lb ed="#M" n="27"/>error, vt dicamus Paulum Thessalonicenses  
           <lb ed="#M" n="28"/>instituisse, non solum per sermonem sed e 
@@ -869,16 +869,16 @@
           <lb ed="#M" n="1"/>cra nobis magis magisque commendata esse  
           <lb ed="#M" n="2"/>debeat.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1777">
           <lb ed="#M" n="3"/>Paulus praecatus est vt videret facien Thessa 
           <lb ed="#M" n="4"/>lonicensium, &amp; ea quae ipsorum fidei deerant co 
           <lb ed="#M" n="5"/>pleret. eroo traditioni viuae vocis multa reser 
           <lb ed="#M" n="6"/>uabat adfidem salutemque necessaria.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1788">
           <lb ed="#M" n="7"/>Antecedens patet ex 1. Thess. 2.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1793">
           <lb ed="#M" n="8"/>Expono Antecedens. Plerique ex veteri  
           <lb ed="#M" n="9"/>bus locum illum intelligunt de doctrina. Chry 
           <lb ed="#M" n="10"/>sostomus refert ad doctrinam de resurre 
@@ -903,7 +903,7 @@
           <lb ed="#M" n="30"/>velint interpretationem: nihil propterea 
           <lb ed="#M" n="31"/>efficient.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1846">
           <lb ed="#M" n="32"/>Nego igitur Consequens. Nam si fidei 
           <!--102.xml-->
           <pb ed="#M" n="79"/>
@@ -929,7 +929,7 @@
           <lb ed="#M" n="20"/>tia. Illa, inquam, omnia nullo rationis vin 
           <lb ed="#M" n="21"/>culo astringuntur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1901">
           <lb ed="#M" n="22"/>Abducamus ad incommodum. Si valet hoc 
           <lb ed="#M" n="23"/>argumentum Pontificiorum. Apostolos multa 
           <lb ed="#M" n="24"/>viuae vocis traditioni reseruasse ad salutem Ec 
@@ -939,7 +939,7 @@
           <lb ed="#M" n="28"/>omnes Apostolos, &amp; Thessalonicenses vniuer 
           <lb ed="#M" n="29"/>sam Ecclesiam. Absurdum.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1921">
           <lb ed="#M" n="30"/>Retorqueamus argumentum. Si Pontifici in  
           <lb ed="#M" n="31"/>de probant suas traditiones quod Paulus apta it 
          <!--103.xml-->
@@ -954,7 +954,7 @@
          <lb ed="#M" n="8"/>la fuerunt, cur Paulus ipse non scripsit? Si 
          <lb ed="#M" n="9"/>non scribenda, cur veteres scripserunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1952">
           <lb ed="#M" n="10"/>Ita igitur errorem illum corrigimus: Pau 
           <lb ed="#M" n="11"/>lum optasse venire in conspectum Thessa 
           <lb ed="#M" n="12"/>lonicensium, vt eorum fidem magis magis  
@@ -967,13 +967,13 @@
           <lb ed="#M" n="19"/>vel potius vocem ipsius Christi in illis scri 
           <lb ed="#M" n="20"/>ptis sonantem audiremus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1978">
           <lb ed="#M" n="21"/>Paulus scripsit Corinthis se quum ad eos ve 
           <lb ed="#M" n="22"/>nerit reliqua esse dispositurum: ergo multa viuae 
           <lb ed="#M" n="23"/>voci reseruauit. 
           <lb ed="#M" n="24"/>Antecedens patet. 1. Cor. 11.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e1989">
           <lb ed="#M" n="25"/>Expono Antecedens. Paulus enim non 
           <lb ed="#M" n="26"/>loquitur de fidei capitibus, sed tantum de 
           <lb ed="#M" n="27"/>ordine Ecclesiastico. Nam αsατοας, (quo 
@@ -987,7 +987,7 @@
           <lb ed="#M" n="2"/>τος. Loquitur autem de ordine in ea re ob  
           <lb ed="#M" n="3"/>seruando. Sic Galli dicunt ordonxer.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2019">
           <lb ed="#M" n="4"/>Nego igitur Consequens. Error est πζ λ 
           <lb ed="#M" n="5"/>να το πκημα τος λοδιος. nam propria verbi fi 
           <lb ed="#M" n="6"/>gnificatio aliud significat quam isti velint. 
@@ -1002,7 +1002,7 @@
           <lb ed="#M" n="15"/>inepta, falsa, αςοκογιςα, aut iis etiam aliquid  
           <lb ed="#M" n="16"/>peius.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2050">
           <lb ed="#M" n="17"/>Deducamus ad absurda. Se verum est 
           <lb ed="#M" n="18"/>quod volunt Pontificii, Paulum tum cum scri 
           <lb ed="#M" n="19"/>beret illam epistolam, non omnia tradidisse Co 
@@ -1019,39 +1019,39 @@
           <lb ed="#M" n="30"/>argumentum Pontificiorum, vt in superio  
           <lb ed="#M" n="31"/>ri argumento fecimus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2085">
           <!--105.xml-->
           <pb ed="#M" n="82"/>
           <lb ed="#M" n="1"/>Ioannes noluit multa scribere, ergo non o 
           <lb ed="#M" n="2"/>mnia ad fidem necessaria scripta sunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2096">
           <lb ed="#M" n="3"/>Antecedens patet ex secuda &amp; tertia Epist. 
           <lb ed="#M" n="4"/>Ioan. Cum multa haberem vobis scribenda, no 
           <lb ed="#M" n="5"/>lui per chartam &amp; atramentum.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2105">
           <lb ed="#M" n="6"/>Admitto Antecedens.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2110">
           <lb ed="#M" n="7"/>Nego Consequens. Error ταοα το εποιθιον, 
           <lb ed="#M" n="8"/>haec enim non sunt consentanea: Ioannes  
           <lb ed="#M" n="9"/>mustam habuit scribenda: ergo de fidei ca  
           <lb ed="#M" n="10"/>pitibus. Item: ergo illa nusquam alibi scri 
           <lb ed="#M" n="11"/>pta extant.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2124">
           <lb ed="#M" n="12"/>Absurdum hoc alioqui sequeretur. Sias 
           <lb ed="#M" n="13"/>lier illa no erat tunc plane instituta in Christia 
           <lb ed="#M" n="14"/>na religione:ergo non cohaerent quae Ioannes di 
           <lb ed="#M" n="15"/>cit dum commendat illius mulieris fidem, &amp; e 
           <lb ed="#M" n="16"/>ius liberorum quos ait in veritate incedere.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2137">
           <lb ed="#M" n="17"/>Retorqueatur, &amp; corrigatur argumentum 
           <lb ed="#M" n="18"/>vt supra.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2144">
           <lb ed="#M" n="19"/>Praeter illa quae scripta sunt, alia multa fecit  
           <lb ed="#M" n="20"/>Iesus, quae si sigillatim scribantur, ne mundus qui  
           <lb ed="#M" n="21"/>dem ipse caperet libros qui scriberentur, ergonon 
@@ -1059,10 +1059,10 @@
           <lb ed="#M" n="23"/>stolis. 
           <lb ed="#M" n="24"/>Antecedens patet Ioan. cap. 21.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2160">
           <lb ed="#M" n="25"/>Admitto Antecedens.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2165">
           <lb ed="#M" n="26"/>Nego Consequens. Error παοο τος απνοιας 
           <lb ed="#M" n="27"/>τον αλογγν. Vagatur enim extra cancellos quae 
           <lb ed="#M" n="28"/>stionis. Inanes loduitur de miraculis &amp;Chri 
@@ -1075,7 +1075,7 @@
           <lb ed="#M" n="2"/>fecit non sunt scripta: ergo omnia doctri  
           <lb ed="#M" n="3"/>nae capita scripta non sunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2191">
           <lb ed="#M" n="4"/>Audiamus quemadmodum Pontificij se 
           <lb ed="#M" n="5"/>ipsos sugulent suo gladio. Si Pontifices refe 
           <lb ed="#M" n="6"/>runtsuas traditiones ad ea quae dicit Ioannes  
@@ -1085,7 +1085,7 @@
           <lb ed="#M" n="10"/>vsqueadeo excreuisse, vt iam eas mundus fer 
           <lb ed="#M" n="11"/>re non possit.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2212">
           <lb ed="#M" n="12"/>Retorqueamus argumentum. Dicit qui  
           <lb ed="#M" n="13"/>dem Ioannes Christum multa alia fecisse quae 
           <lb ed="#M" n="14"/>scripta non sunt, sed idem affirmat ea quae scri 
@@ -1093,7 +1093,7 @@
           <lb ed="#M" n="16"/>ternam habeamus. Exgo ea quae scripta sunt, ad  
           <lb ed="#M" n="17"/>vitam aeternam sufficiunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2228">
           <lb ed="#M" n="18"/>Corrigatur error Pontificiorum hoc mo 
           <lb ed="#M" n="19"/>do. Ex iis quae fecit Christus alioquin infi 
           <lb ed="#M" n="20"/>nitis, Ioannes &amp; reliqui Euangelistae ea se 
@@ -1101,19 +1101,19 @@
           <lb ed="#M" n="22"/>fit, vt Apostolicis scriptis contenti esse de 
           <lb ed="#M" n="23"/>beamus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2244">
           <lb ed="#M" n="24"/>Apostoli saepe citarunt testimonia sumpta ex 
           <lb ed="#M" n="25"/>traditionibus veterum, ergo non haerendum est 
           <lb ed="#M" n="26"/>solis Scripturis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2253">
           <lb ed="#M" n="27"/>Antecedens patet. 2. Timoth. 2. lannes &amp; 
           <lb ed="#M" n="28"/>sanmbros totituonitunt Mosi. Item lud. ver. 9. 
           <lb ed="#M" n="29"/>Michael Archagelus disputas de corpore Mo 
           <lb ed="#M" n="30"/>sis, &amp;c. Paulo post vsurpat Prophetiam Enoch, 
           <lb ed="#M" n="31"/>Ecce venit Dominus cu sactis millibus suis, &amp;c
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2266">
           <!--107.xml-->
           <pb ed="#M" n="84"/>
           <lb ed="#M" n="1"/>Expono Antecedens. Fateor Apostolos  
@@ -1167,7 +1167,7 @@
           <lb ed="#M" n="16"/>quorsum Apostoli quasdam sententias sint 
           <lb ed="#M" n="17"/>aliquando ex libris Apocryphis mutuati
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2381">
           <lb ed="#M" n="18"/>Itaque nego Consequens. Apostoli quae
           <lb ed="#M" n="19"/>dam vsurparunt ex libris Apocryphis, eruo 
           <lb ed="#M" n="20"/>illa vsurparunt ad confirmanda fidei dog 
@@ -1192,10 +1192,10 @@
           <lb ed="#M" n="6"/>Ne dicam, non satis recte ab Apostolis ad  
           <lb ed="#M" n="7"/>nons, in hac causa, argumentum duci.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2434">
           <lb ed="#M" n="8"/>Deducamus Pontificios ες αδενατον.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2439">
           <lb ed="#M" n="9"/>Si, quia Apostoli quaedam citarunt ex libris 
           <lb ed="#M" n="10"/>non canonicis: ideo sequitur Apostolos libris illis  
           <lb ed="#M" n="11"/>&amp; similibus authoritatem in causa fidet tribuis  
@@ -1204,7 +1204,7 @@
           <lb ed="#M" n="14"/>dei, authoritatem libris Ethnicorum tribuisse  
           <lb ed="#M" n="15"/>αδενατον &amp; εονοδοδον.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2457">
           <lb ed="#M" n="16"/>Retorqueamus obiectionem hoc modo,  
           <lb ed="#M" n="17"/>Si Apostoli nunquam citarunt veterum tra 
           <lb ed="#M" n="18"/>ditiones, nisi ad illustranda ea quae firmissimis  
@@ -1212,7 +1212,7 @@
           <lb ed="#M" n="20"/>debemus citare veterum traditiones ad ea pro 
           <lb ed="#M" n="21"/>banda quae Scripturae testimoniis destitunutur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2473">
           <lb ed="#M" n="22"/>Sic igitur corrigendus est error huius ob  
           <lb ed="#M" n="23"/>iectionis, vt dicamus Auostolos cum se ad 
           <lb ed="#M" n="24"/>captum hominum accommotarennis, vt eos 
@@ -1222,7 +1222,7 @@
           <lb ed="#M" n="28"/>cum de iis rebus dissererent, quarum veri 
           <lb ed="#M" n="29"/>tas manifeste lucebat in Scriptura.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2493">
           <lb ed="#M" n="30"/>Haeretici scripta Pauli detorquebant etiam 
           <lb ed="#M" n="31"/>Apostolorum temporibus, &amp; notum est haereti 
           <!--110.xml-->
@@ -1231,15 +1231,15 @@
           <lb ed="#M" n="2"/>ribus prontexuisse. Ergo lolis Scripturis haeren 
           <lb ed="#M" n="3"/>dum non est.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2511">
           <lb ed="#M" n="4"/>Antecedens patet, 2. Pet. 2. &amp; ex historia Ec 
           <lb ed="#M" n="5"/>clesiastica, adde Matt. 4. Si Filius Dei es da te 
           <lb ed="#M" n="6"/>praecipitem, Scriptum est em, &amp;c
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2521">
           <lb ed="#M" n="7"/>Admitto Antecedens.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2526">
           <lb ed="#M" n="8"/>Nego Consequens, nec enim ita conclu 
           <lb ed="#M" n="9"/>dit Petrus: sed potius ad Pauli scripta reuo  
           <lb ed="#M" n="10"/>cat, nedum auocat. Error est παοα τομν αετον 
@@ -1261,7 +1261,7 @@
           <lb ed="#M" n="26"/>sim respondit: Scriptum est, non autem, tra 
           <lb ed="#M" n="27"/>ditum est.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2572">
           <lb ed="#M" n="28"/>Abducamus ad incommodum. Sο ακνα 
           <lb ed="#M" n="29"/>haeretici praetexunt Scripturam, solis Scripturis. 
           <lb ed="#M" n="30"/>herendum non est: certe quia haeretici praetexunt e 
@@ -1275,7 +1275,7 @@
           <lb ed="#M" n="5"/>nec traditionibus haerendum erit. αθενατον etiam 
           <lb ed="#M" n="6"/>ipsis Pontificiis assentientibus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2601">
           <lb ed="#M" n="7"/>Retorqueamus argumentum. Siggad  
           <lb ed="#M" n="8"/>modum Satan adversus Christum Scriptura 
           <lb ed="#M" n="9"/>abusus est, ita haeretici adversus Orthodoxos 
@@ -1284,7 +1284,7 @@
           <lb ed="#M" n="12"/>lendum, ita Orthodexi sola Scriptura vti de 
           <lb ed="#M" n="13"/>bent, ad haereticos repellendos.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2619">
           <lb ed="#M" n="14"/>Sic ergo errore istum corrigamus. Quan 
           <lb ed="#M" n="15"/>doquidem ea est haereticorum prauitas, vt  
           <lb ed="#M" n="16"/>Scripturis sanctis abutantur: danda est ope  
@@ -1297,17 +1297,17 @@
           <lb ed="#M" n="23"/>rum Decretis extat haec sententia: ex ipsis 
           <lb ed="#M" n="24"/>scripturis capiendum esse sensum veritatis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2645">
           <lb ed="#M" n="25"/>Paedobaptismus non reperitur in sacris literis: 
           <lb ed="#M" n="26"/>neque  vocabula Trinitatis, οuθατικ, personae, &amp; 
           <lb ed="#M" n="27"/>aliquot alia: quae tamen omnia ad fidei dogma 
           <lb ed="#M" n="28"/>ta pertinent. Ergo non omnia quae ad fidem per 
           <lb ed="#M" n="29"/>tinent, in sacris literis reperiuntur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2659">
           <lb ed="#M" n="30"/>Antecedens patet ex ipsa Scripturae lectione.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2664">
           <lb ed="#M" n="31"/>Expono Antecedens. Paedobaptismum 
           <!--112.xml-->
           <pb ed="#M" n="89"/>
@@ -1330,7 +1330,7 @@
           <lb ed="#M" n="17"/>ctrinam de Trinitate, quam expressis Scri 
           <lb ed="#M" n="18"/>pturae testimoniis confirmarant.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2712">
           <lb ed="#M" n="19"/>Nego igitur consequens. Error est 
           <lb ed="#M" n="20"/>Trinitatem, paedobaptis  
           <lb ed="#M" n="21"/>mum, ξαατον non reperiri in sacris literis, di 
@@ -1345,7 +1345,7 @@
           <lb ed="#M" n="30"/>sensu sanctis literis consentaneo, neutiquam  
           <lb ed="#M" n="31"/>abhorrerent.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2743">
           <!--113.xml-->
           <pb ed="#M" n="90"/>
           <lb ed="#M" n="1"/>Vrgeamus absurdo. Si quia Trinitatu 
@@ -1361,11 +1361,11 @@
           <lb ed="#M" n="11"/>fidem sunt necessaria tenuisse: Aosurdissimum 
           <lb ed="#M" n="12"/>&amp; αθολογον.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2776">
           <lb ed="#M" n="13"/>Retorqueamus argumentum Pontificio 
           <lb ed="#M" n="14"/>rum hoc modo.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2783">
           <lb ed="#M" n="15"/>Si tanta fuit piorum maiorum religio, ut ne 
           <lb ed="#M" n="16"/>ulsum quidem  vocabulum excogitarint in tra 
           <lb ed="#M" n="17"/>ctandis fidei dogmatibus, quod no expressis Scri 
@@ -1375,14 +1375,14 @@
           <lb ed="#M" n="21"/>etiam res ipsas, a sacris literis penitus abhorren 
           <lb ed="#M" n="22"/>tes, excogitarunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2804">
           <lb ed="#M" n="23"/>Itaque corrigamus errorem istius obie 
           <lb ed="#M" n="24"/>ctionis: &amp; dicamus licere, piis Ecclesiae Do 
           <lb ed="#M" n="25"/>ctoribus quaedam vocabula proponere, qui  
           <lb ed="#M" n="26"/>bus res in sacris literis contentae melius ac  
           <lb ed="#M" n="27"/>facilius exprimantur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2817">
           <lb ed="#M" n="28"/>Si non possumus ex parte Ecclesiae credere, &amp; 
           <lb ed="#M" n="29"/>ex parte non credere: &amp; credimus Ecclesiae affir 
           <lb ed="#M" n="30"/>manti, Scripturam sacram fuisse a Spiritu Dei 
@@ -1393,13 +1393,13 @@
           <lb ed="#M" n="1"/>dere, affirmanti has vel illas traditiones, esse A 
           <lb ed="#M" n="2"/>postolicas.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2839">
           <lb ed="#M" n="3"/>Antecedens verum est.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2844">
           <lb ed="#M" n="4"/>Verum igitur &amp; consequens.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2849">
           <lb ed="#M" n="5"/>Assumptum habet duo membra nobis si 
           <lb ed="#M" n="6"/>gillatim excutienda. In oriori membro di 
           <lb ed="#M" n="7"/>stinguo nomen Ecclesiae. Nam Ecclesia illa 
@@ -1445,7 +1445,7 @@
           <lb ed="#M" n="14"/>tur verum non est: ac propterea non tenet  
           <lb ed="#M" n="15"/>consequentia. Error ταοα το αημα τος ληλνος.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2947">
           <lb ed="#M" n="16"/>Abducamus ad incommodum. Tertullia 
           <lb ed="#M" n="17"/>ni temporibus Ecclesia dicebat oblationem pro 
           <lb ed="#M" n="18"/>natalitiis esse tradumlonem Apostolicam at tem  
@@ -1456,20 +1456,20 @@
           <lb ed="#M" n="23"/>credere, nobis simul credenda erunt ea quae sunt  
           <lb ed="#M" n="24"/>αντηφθαλικως opposita. αδεναον.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2970">
           <lb ed="#M" n="25"/>Retorqueamus obiectionem hoc modo.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2975">
           <lb ed="#M" n="26"/>Quisquis dicit Scripturam esse verbum Dei 
           <lb ed="#M" n="27"/>cui nos credere oporteat, &amp; simul recipiendas esse  
           <lb ed="#M" n="28"/>traditiones non scriptas, pugnantia dicit.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2984">
           <lb ed="#M" n="29"/>Pontificiorum Ecclesia dicit Scripturam esse 
           <lb ed="#M" n="30"/>verbum Dei cui credere oporteat, &amp; simul re 
           <lb ed="#M" n="31"/>cipiendas esse traditiones non scriptas.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e2993">
           <!--116.xml-->
           <pb ed="#M" n="93"/>
           <lb ed="#M" n="1"/>Quare Ecclesia Pontificiorum pugnantia di 
@@ -1480,7 +1480,7 @@
           <lb ed="#M" n="6"/>rum argumento Pontificiorum, Ecclesiam non 
           <lb ed="#M" n="7"/>vere dici Ecclesiam.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3015">
           <lb ed="#M" n="8"/>Maioris propositionis veritas ita patet.  
           <lb ed="#M" n="9"/>Si me iubes credere Scripturae, certe credam 
           <lb ed="#M" n="10"/>nihil addendum esse Scripturae, quia id no 
@@ -1495,7 +1495,7 @@
           <lb ed="#M" n="19"/>fit vt non possim credere Scripturae, &amp; tra 
           <lb ed="#M" n="20"/>ditionibus Pontificiis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3046">
           <lb ed="#M" n="21"/>Corrigendus est igitur error superioris 
           <lb ed="#M" n="22"/>obiectionis in hunc modum. Cum solus 
           <lb ed="#M" n="23"/>sit Deus cui in solidum credere deneamus, 
@@ -1522,11 +1522,11 @@
           <lb ed="#M" n="11"/>des nostra nunquam hominibus, semper au  
           <lb ed="#M" n="12"/>tem solo Deo nitatur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3104">
           <lb ed="#M" n="13"/>Apostoli legi addiderunt, nempe Evangeli  
           <lb ed="#M" n="14"/>doctrinam, ergo licet addere verbo Dei.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3111">
           <lb ed="#M" n="15"/>Expono Antecedens. Quanuis Euange 
           <lb ed="#M" n="16"/>lii doctrina sit plenior, &amp; vberior scriptis  
           <lb ed="#M" n="17"/>veteris Testamenti, tamen si rem ipsam spe 
@@ -1549,7 +1549,7 @@
           <lb ed="#M" n="1"/>promissiones impleuisse, nec Legi, nec scri 
           <lb ed="#M" n="2"/>ptis Propheticis addiderunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3159">
           <lb ed="#M" n="3"/>Porro nego Consequens. Error, ταηα rο 
           <lb ed="#M" n="4"/>ξημα τος λελθος, ut patet ex iis quae dicta sunt.  
           <lb ed="#M" n="5"/>Adde quod non recte procedit argumentum 
@@ -1560,13 +1560,13 @@
           <lb ed="#M" n="10"/>nihil propterea decederet huic interdicto, 
           <lb ed="#M" n="11"/>Nequid homines addant verbo Dei
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3181">
           <lb ed="#M" n="12"/>Quare cum ex hac Pontificiorum ratio 
           <lb ed="#M" n="13"/>cinatione sequeretur euersio praestantissi 
           <lb ed="#M" n="14"/>mae doctrinae de similitudine veteris &amp; no 
           <lb ed="#M" n="15"/>ui Testamenti.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e116-d1e3192">
           <lb ed="#M" n="16"/>Corrigamus hunc errorem ex hac prae 
           <lb ed="#M" n="17"/>clara sententia, quae extat apud lustinum 
           <lb ed="#M" n="18"/>Martyrem, in interp. &amp;Rcesp. cud est Eca? 

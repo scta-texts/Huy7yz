@@ -48,10 +48,10 @@
     </front>
     <body>
       <div xml:id="Huy7yz-d1e76">
-        <head>Caput 1 [Morges 1580 Transcription]</head>
-        <head type="question-title">Deus multis vicibus multisque modis olim loquutus Patribus per Prophetas, 
+        <head xml:id="Huy7yz-d1e76-Hd1e95">Caput 1 [Morges 1580 Transcription]</head>
+        <head xml:id="Huy7yz-d1e76-Hd1e98" type="question-title">Deus multis vicibus multisque modis olim loquutus Patribus per Prophetas, 
           ultimis, diebus hisce loquutus est nobis per Filium</head>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e101">
           <!--042.xml-->
           <pb ed="#U" n="21"/>
           <lb ed="#U" n="1"/>QVvm Tertullianus in aciem 
@@ -67,7 +67,7 @@
           <lb ed="#U" n="11"/>Omnia dogmata fidei Christianae necessaria in 
           <lb ed="#U" n="12"/>Scriptura sacra contineri
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e134">
           <lb ed="#U" n="13"/>Hanc nostram sententiam sic exponimus 
           <lb ed="#U" n="14"/>ex illo loco Epistolae ad Hebraeos, qui no 
           <lb ed="#U" n="15"/>bis huiusce disputationis fontes aperuit.  
@@ -115,16 +115,16 @@
           <lb ed="#U" n="1"/>Apostoli &amp; Euangelistae viua voce tradi 
           <lb ed="#U" n="2"/>derint.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e236">
           <lb ed="#U" n="3"/>At Pontificiorum sententia haec est.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e242">
           <!-- edition has paragraph break here, but I think these should go together 
       since the following seems to be kind of quote -->
           <lb ed="#U" n="4"/>Non omnia dogmata fidei Christianae ne 
           <lb ed="#U" n="5"/>cessaria in scriptura sacra contineri.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e251">
           <lb ed="#U" n="6"/>Quam sententia ita exponunt. Licet ver 
           <lb ed="#U" n="7"/>bum Dei sit mensura fidei nostrae, non tamen 
           <lb ed="#U" n="8"/>omne Dei verbum extare in scriptura. Mul  
@@ -139,7 +139,7 @@
           <lb ed="#U" n="17"/>sticas esse ad Scripturam sacram adiicien 
           <lb ed="#U" n="18"/>das. Haec illi
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e282">
           <lb ed="#U" n="19"/>Ex quibus satis est perspicuum quisnam  
           <lb ed="#U" n="20"/>sit controversiae status. Hoc est enim το απ 
           <lb ed="#U" n="21"/>τοισον: An omne Dei verbum per Prophe 
@@ -151,7 +151,7 @@
           <lb ed="#U" n="27"/>tiocinationis, de re quaque veram esse affir 
           <lb ed="#U" n="28"/>mationem aut negationem.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e76-d1e306">
           <lb ed="#U" n="29"/>Antequam autem aggrediamur confirma 
           <lb ed="#U" n="30"/>re nostram sententiam, ipsi termini quaestio 
           <lb ed="#U" n="31"/>nis nobis breuiter exponendi sunt. Verbum 

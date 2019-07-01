@@ -48,8 +48,8 @@
     </front>
     <body>
       <div xml:id="Huy7yz-d1e129">
-        <head>Caput 5 [Morges 1580 Transcription]</head>
-        <p>
+        <head xml:id="Huy7yz-d1e129-Hd1e95">Caput 5 [Morges 1580 Transcription]</head>
+        <p xml:id="Huy7yz-d1e129-d1e98">
           <!--119.xml-->
           <pb ed="#M" n="96"/>
           <lb ed="#M" n="1"/>Qvandoquidem Pontificij sa 
@@ -72,15 +72,15 @@
           <lb ed="#M" n="18"/>terum Doctorum scriptis, tanquam in la 
           <lb ed="#M" n="19"/>byrintho commode, &amp; tuto versari possimus.
         </p>
-        <div>
-          <head>Prima Regula</head>
-          <p>
+        <div xml:id="Huy7yz-d1e129-Dd1e146">
+          <head xml:id="Huy7yz-d1e129-Hd1e148">Prima Regula</head>
+          <p xml:id="Huy7yz-d1e129-d1e151">
             <lb ed="#M" n="20"/>Ad fidem nostram confirmandam 
             <lb ed="#M" n="21"/>veterum Doctorum scripta eate 
             <lb ed="#M" n="22"/>nus sunt recipienda, quatenus cum 
             <lb ed="#M" n="23"/>Sacris literis conueniunt.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e162">
             <lb ed="#M" n="24"/>Quanuis haec regula satis per se luceat,  
             <lb ed="#M" n="25"/>eorum praesertim oculis qui veritatem in 
             <lb ed="#M" n="26"/>tuentur, quaedam tamen subiiciemus ad il 
@@ -112,7 +112,7 @@
             <lb ed="#M" n="24"/>venio nihil dubitationis reliquum fore quin 
             <lb ed="#M" n="25"/>nobiscum superiorem regulam recipiant.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e230">
             <lb ed="#M" n="26"/>Sic igitur Origenes, Nobis necesse est Scri 
             <lb ed="#M" n="27"/>pturas ianctas in testimonium  vocare, sensus quip  
             <lb ed="#M" n="28"/>pe nostri &amp; enarrationes sine his testibus non 
@@ -120,21 +120,21 @@
             <lb ed="#M" n="30"/>templum non est sanctificatum: sic omnis sen 
             <lb ed="#M" n="31"/>sus qui fuerit extra Scripturam non est sanctus.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e246">
             <!--121.xml-->
             <pb ed="#M" n="98"/>
             <lb ed="#M" n="1"/>Tertuirruus Quid contrarium 
             <lb ed="#M" n="2"/>nobis in nostris? (loquitur autem de Sacris li  
             <lb ed="#M" n="3"/>teris) ltem, Quod sumus, hoc sunt.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e260">
             <lb ed="#M" n="4"/>Curroostous. Siquid dicitur alsi  
             <lb ed="#M" n="5"/>que Scriptura, auditorum cogitatio claudicat.  
             <lb ed="#M" n="6"/>Hierorrmvs. Exceptis Apostolis, quod 
             <lb ed="#M" n="7"/>cunque postea dicetur, abscindatur, non habeat  
             <lb ed="#M" n="8"/>authoritatem.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e273">
             <lb ed="#M" n="9"/>Nucustirus. Noli contra diuina te 
             <lb ed="#M" n="10"/>stimonia colligere calumnias ex Episcoporum 
             <lb ed="#M" n="11"/>scriptis, ut Hilarij, Cypriani, &amp;c. quia hoc ge 
@@ -159,9 +159,9 @@
             <lb ed="#M" n="30"/>videantur.
           </p>
         </div>
-        <div>
-          <head>Regula 2</head>
-          <p>
+        <div xml:id="Huy7yz-d1e129-Dd1e324">
+          <head xml:id="Huy7yz-d1e129-Hd1e326">Regula 2</head>
+          <p xml:id="Huy7yz-d1e129-d1e329">
             <!--122.xml-->
             <pb ed="#M" n="99"/>
             <lb ed="#M" n="1"/>Deteres Doctores saepe nomine tra 
@@ -170,7 +170,7 @@
             <lb ed="#M" n="4"/>Hanc regulam esse veram ex sequentibus 
             <lb ed="#M" n="5"/>patebit.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e347">
             <lb ed="#M" n="6"/>lnetaeus referente Eusebio, Polycarpus 
             <lb ed="#M" n="7"/>docuit, inquit, quae ab Apostolis didicerat, quae 
             <lb ed="#M" n="8"/>&amp; Ecclesia tradit &amp; sola sunt vera. Haec ille  
@@ -190,16 +190,16 @@
             <lb ed="#M" n="22"/>tes in vnum Deum &amp; in Christum qui natus 
             <lb ed="#M" n="23"/>est ex Virgine, &amp;c.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e389">
             <lb ed="#M" n="24"/>Tertuittrrus. Apostolica traditio 
             <lb ed="#M" n="25"/>nihil passa est circa Dei regulam, hoc est, illa 
             <lb ed="#M" n="26"/>omnia quae Apostoli docuerunt &amp; literis 
             <lb ed="#M" n="27"/>mandarunt.
           </p>
         </div>
-        <div>
-          <head>Regula 3</head>
-          <p>
+        <div xml:id="Huy7yz-d1e129-Dd1e401">
+          <head xml:id="Huy7yz-d1e129-Hd1e403">Regula 3</head>
+          <p xml:id="Huy7yz-d1e129-d1e406">
             <!--123.xml-->
             <pb ed="#M" n="100"/>
             <lb ed="#M" n="1"/>Qeteres saepe vocant traditionem non 
@@ -208,7 +208,7 @@
             <lb ed="#M" n="4"/>tamen sirem ipsam spectes, extat  
             <lb ed="#M" n="5"/>in Scriptura.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e424">
             <lb ed="#M" n="6"/>Sic Basilius ait se aduversus haereticos v 
             <lb ed="#M" n="7"/>surpasse quaedam vocabula etiam non scri 
             <lb ed="#M" n="8"/>pta, sed tamen (inquit) quae a sensu Sacris li  
@@ -226,9 +226,9 @@
             <lb ed="#M" n="20"/>pite dicta sunt.
           </p>
         </div>
-        <div>
-          <head>Regula 4</head>
-          <p>
+        <div xml:id="Huy7yz-d1e129-Dd1e461">
+          <head xml:id="Huy7yz-d1e129-Hd1e463">Regula 4</head>
+          <p xml:id="Huy7yz-d1e129-d1e466">
             <lb ed="#M" n="21"/>Veteres saepissime nomine Traditio 
             <lb ed="#M" n="22"/>nis non significant Dogmata, sed  
             <lb ed="#M" n="23"/>ritus Ecclesiasticos, &amp; vt magis co 
@@ -238,7 +238,7 @@
             <lb ed="#M" n="1"/>non scriptis, ac propterea se ali
             <lb ed="#M" n="2"/>quando ad haereticos inclinarunt
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e486">
             <lb ed="#M" n="2"/>Quam varij fuerint ritus Ecclesiastici, 
             <lb ed="#M" n="3"/>quantoque studio veteres eiusmodi ritus 
             <lb ed="#M" n="4"/>commendarint, vt vias omnes Schismaticis 
@@ -263,9 +263,9 @@
             <lb ed="#M" n="23"/>ficiant.
           </p>
         </div>
-        <div>
-          <head>Regula 5</head>
-          <p>
+        <div xml:id="Huy7yz-d1e129-Dd1e537">
+          <head xml:id="Huy7yz-d1e129-Hd1e539">Regula 5</head>
+          <p xml:id="Huy7yz-d1e129-d1e542">
             <lb ed="#M" n="24"/>Quidam ex veteribus, quum neuos 
             <lb ed="#M" n="25"/>quoque suos haberent, nimis in 
             <lb ed="#M" n="26"/>dulserunt eiusmodi traditionibus 
@@ -285,9 +285,9 @@
             <lb ed="#M" n="12"/>libri.
           </p>
         </div>
-        <div>
-          <head>Regula 6</head>
-          <p>
+        <div xml:id="Huy7yz-d1e129-Dd1e582">
+          <head xml:id="Huy7yz-d1e129-Hd1e584">Regula 6</head>
+          <p xml:id="Huy7yz-d1e129-d1e587">
             <lb ed="#M" n="13"/>Multi libri nomina veterum emen 
             <lb ed="#M" n="14"/>tiuntur, quum tamen sint suppositi 
             <lb ed="#M" n="15"/>Factum est librariorum culpa, vt pleri  
@@ -313,12 +313,12 @@
             <lb ed="#M" n="5"/>faque his admixta vitiosa, &amp; magnae esse pru 
             <lb ed="#M" n="6"/>dentiae aurum in luto quaerere. Haec ille
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e642">
             <lb ed="#M" n="7"/>His igitur regulis substratis iam nobis  
             <lb ed="#M" n="8"/>excutiendae sunt Pontificiorum obiectio 
             <lb ed="#M" n="9"/>nes ex veterum Doctorum scriptis petitae.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e651">
             <lb ed="#M" n="10"/>Ciemer1sA1.exaupr1. Operarius 
             <lb ed="#M" n="11"/>qui in messem Domini emittitur, duplicem ha 
             <lb ed="#M" n="12"/>bet agrieulturam, ααφον &amp; αποαθον. ltem  
@@ -326,7 +326,7 @@
             <lb ed="#M" n="14"/>bus tradiderunt, ita etiam Apostoli: vt ait Pau 
             <lb ed="#M" n="15"/>lus, Sapientiam loquimur inter perfectos.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e667">
             <lb ed="#M" n="16"/>Respondeo. Authorem istum non satis 
             <lb ed="#M" n="17"/>pure hanc quaestionem tractasse, &amp; hunc  
             <lb ed="#M" n="18"/>naeuum in eo facile deprehendo ex ipsa Scri 
@@ -355,7 +355,7 @@
             <lb ed="#M" n="9"/>plantauit, alteram euellat? ltaque ne sic qui  
             <lb ed="#M" n="10"/>dem Pontificiorum causa potest subleuaris.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e729">
             <lb ed="#M" n="11"/>lrerr2uo. Cum ad eam traditionem 
             <lb ed="#M" n="12"/>quae est ab Apostolis provocantur haeretici, quae 
             <lb ed="#M" n="13"/>per successiones Presbyterorum custoditis in 
@@ -363,7 +363,7 @@
             <lb ed="#M" n="15"/>que neque Scripturis, neque traditioni con 
             <lb ed="#M" n="16"/>sentiunt.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e745">
             <lb ed="#M" n="17"/>Agebatur de vero Deo &amp; Patre Domi 
             <lb ed="#M" n="18"/>ni nostri Iesu Christi quem haeretici illi ne 
             <lb ed="#M" n="19"/>gabant: qui quum vrgerentur sacrae Scriptu 
@@ -381,7 +381,7 @@
             <lb ed="#M" n="31"/>duntur, hoc est, annuntiantur, qua de re su  
             <lb ed="#M" n="32"/>pra in in secunda regula.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e782">
             <!--128.xml-->
             <pb ed="#M" n="105"/>
             <lb ed="#M" n="1"/>Tettui11arus. Si nulla Scriptura de 
@@ -391,7 +391,7 @@
             <lb ed="#M" n="5"/>lam inuenies, traditio pretenditur auctrix, con  
             <lb ed="#M" n="6"/>suetudo confirmatrix, fides obseruatrix.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e802">
             <lb ed="#M" n="7"/>Quaerebatur an liceret Christianis ca  
             <lb ed="#M" n="8"/>put sertis coronare, quod vetere quodam  
             <lb ed="#M" n="9"/>instituto fuerat interdictum, nimirum pro 
@@ -422,13 +422,13 @@
             <lb ed="#M" n="1"/>At nostra disputatio de fidei dogmatibus 
             <lb ed="#M" n="2"/>instituta est.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e867">
             <lb ed="#M" n="3"/>brs12. Dogmata quaedam sunt scripta, quae 
             <lb ed="#M" n="4"/>dam ex Apostolorum traditione in mysterio &amp; 
             <lb ed="#M" n="5"/>occulto tradita &amp; recepta, quorum vtraque pa 
             <lb ed="#M" n="6"/>rem vim habent ad pietatem.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e878">
             <lb ed="#M" n="7"/>Quum in Ecclesia cantari solitus esset hic 
             <lb ed="#M" n="8"/>versus, Gloria Patri &amp; Filio cum Spiritu san 
             <lb ed="#M" n="9"/>cto: plerique ex Graecis (qui vt plurimum 
@@ -496,7 +496,7 @@
             <lb ed="#M" n="5"/>habent ad pietatem: vt ipsis cum Basilio con 
             <lb ed="#M" n="6"/>ueniat.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1025">
             <lb ed="#M" n="7"/>Curreostomvs. Hinc patet quod non 
             <lb ed="#M" n="8"/>omnia per Epistolam tradiderint, sed multa etiam 
             <lb ed="#M" n="9"/>sine literis. Eadem vero fide digna sunt tam il 
@@ -504,7 +504,7 @@
             <lb ed="#M" n="11"/>siae fide dignam putamus. Traditio est, nihil  
             <lb ed="#M" n="12"/>quaeras amplius.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1041">
             <lb ed="#M" n="13"/>Haec verba Pauli enarras Chrysostomus, 
             <lb ed="#M" n="14"/>Tenete traditiones quas edocti estis, siue 
             <lb ed="#M" n="15"/>per sermonem siue per epistolam: hinc col  
@@ -532,12 +532,12 @@
             <lb ed="#M" n="4"/>rissimis Scripturae fontibus. qua de re, vide 
             <lb ed="#M" n="5"/>regulam. 2.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1100">
             <lb ed="#M" n="6"/>Naaiataerus. Nouae Legis doctrina 
             <lb ed="#M" n="7"/>msignior est propter Ecclesiae figuras quas tradi 
             <lb ed="#M" n="8"/>tione acceptas in hunc usque diem seruauimus.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1109">
             <lb ed="#M" n="9"/>Locum huc expono ut superiorem pro  
             <lb ed="#M" n="10"/>ximum, nempe de iis traditionibus quae in 
             <lb ed="#M" n="11"/>sunt Scripturae: ex regula 2. &amp; 3. Nam si di 
@@ -548,14 +548,14 @@
             <lb ed="#M" n="16"/>piis hominibus qui erga Dei cultum ex a 
             <lb ed="#M" n="17"/>nimo sunt affecti.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1131">
             <lb ed="#M" n="18"/>Epiprrrius. Oportet etiam traditione 
             <lb ed="#M" n="19"/>vti. Non enim omnia a diuina Scriptura acci 
             <lb ed="#M" n="20"/>pi possunt. Quapropter quaedam in Scripturis, 
             <lb ed="#M" n="21"/>quaedam in traditione, sancti Apostoli tradi 
             <lb ed="#M" n="22"/>derunt.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1144">
             <lb ed="#M" n="23"/>lllic agit Epiphanius de quibusdam riti 
             <lb ed="#M" n="24"/>bus quos olim Christiani obseruabant (ut  
             <lb ed="#M" n="25"/>in regula q. dictum est) &amp; multos recenset  
@@ -580,7 +580,7 @@
             <lb ed="#M" n="10"/>cient traditionum adversarij, si talia audent  
             <lb ed="#M" n="11"/>qui traditiones ipsas defendunt?
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1197">
             <lb ed="#M" n="12"/>Hietotimvs. Quaeris vbi scriptum site 
             <lb ed="#M" n="13"/>In Actis Apostolicis, atque etiam si Scriptura 
             <lb ed="#M" n="14"/>authoritas non subesset, totius orbis in hac par 
@@ -590,7 +590,7 @@
             <lb ed="#M" n="18"/>surpauerunt: velut in Baptismo ter caput mergi 
             <lb ed="#M" n="19"/>tare, lactis &amp; mellis praegustare concordiam, &amp;c
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1217">
             <lb ed="#M" n="20"/>Agebatur de manuum impositione post 
             <lb ed="#M" n="21"/>Paptismum, ac propterea de Ecclesiasticis 
             <lb ed="#M" n="22"/>ritibus: qua de re supra, in reg. 4: nos autem  
@@ -603,7 +603,7 @@
             <lb ed="#M" n="29"/>totius orbis consensu confirmatam, quae 
             <lb ed="#M" n="30"/>nunc totius orbis consensu reiecta est.
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1243">
             <lb ed="#M" n="31"/>Auoustirus. De quibus nihil certi sta 
             <!--134.xml-->
             <pb ed="#M" n="111"/>
@@ -617,7 +617,7 @@
             <lb ed="#M" n="7"/>sia saluberrima authoritas) comendata &amp; statu 
             <lb ed="#M" n="8"/>ta retineri: ut Domini Passio, resurrectio, &amp;c
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1269">
             <lb ed="#M" n="9"/>Augustinus illic agit, non de dogmatibus 
             <lb ed="#M" n="10"/>fidei, sed de ritibus Ecclesiasticis, de quibus 
             <lb ed="#M" n="11"/>admonuimus in reg. 4. Et certe quum sola 
@@ -632,7 +632,7 @@
             <lb ed="#M" n="20"/>set, &amp; traditionum onus AEtna gravius quo 
             <lb ed="#M" n="21"/>Pontificij iampridem Ecclesiam oppresserunta
           </p>
-          <p>
+          <p xml:id="Huy7yz-d1e129-d1e1300">
             <lb ed="#M" n="22"/>Possint fortassis alia eiusmodi nonnulla 
             <lb ed="#M" n="23"/>ex veteribus deprompta in medium profer 
             <lb ed="#M" n="24"/>ri. Sed quorum solutio facile ex iis quae a no 

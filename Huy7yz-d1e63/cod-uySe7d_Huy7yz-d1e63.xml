@@ -48,8 +48,8 @@
     </front>
     <body>
       <div xml:id="Huy7yz-d1e63">
-        <head>Praefatio [Morges 1580 Transcription]</head>
-        <p>
+        <head xml:id="Huy7yz-d1e63-Hd1e95">Praefatio [Morges 1580 Transcription]</head>
+        <p xml:id="Huy7yz-d1e63-d1e98">
           <pb ed="#M" n="1"/> <!-- old count 22 -->
           <lb ed="#M" n="1"/>Scripturam sacram esse ad 
           <lb ed="#M" n="2"/>doctrinam &amp; ad redargutionem 
@@ -217,7 +217,7 @@
           <lb ed="#M" n="15"/>tiocinari, qui hodie adversus recte ratioci 
           <lb ed="#M" n="16"/>nandi scientiam insurgunt.
       </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e473">
           <lb ed="#M" n="17"/>Hic autem fortasse a nobis quaerat aliquis, 
           <lb ed="#M" n="18"/>num hac nostra commendatione scripta 
           <lb ed="#M" n="19"/>quoque Scholasticorum Doctorum compre 
@@ -321,7 +321,7 @@
           <lb ed="#M" n="18"/>existimo, quin primus hic Scholasticorum 
           <lb ed="#M" n="19"/>error iure a nobis recenseatur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e699">
           <lb ed="#M" n="20"/>Secundus error, hic est, quod de rebus  
           <lb ed="#M" n="21"/>Theologicis in vtranqve partem, ac topice 
           <lb ed="#M" n="22"/>disputant ex probabilibus argumentis, quod  
@@ -375,7 +375,7 @@
           <lb ed="#M" n="4"/>ξετακοηντητον τιδεναι, &amp; eas in veritatis firmissi 
           <lb ed="#M" n="5"/>mo gradu collocare.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e814">
           <lb ed="#M" n="6"/>Tertius error hic est, quod veritatem ob  
           <lb ed="#M" n="7"/>scurant suis argutiis, nedum illustrent. Nam 
           <lb ed="#M" n="8"/>quae sunt difficilia, reddunt ipsi spinosis &amp; 
@@ -400,7 +400,7 @@
           <lb ed="#M" n="27"/>quosdam mugitus, ex tenebricosis illis quae 
           <lb ed="#M" n="28"/>stionum speluncis edere videantur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e867">
           <lb ed="#M" n="29"/>Quartus denique hic est error, quod Scho 
           <lb ed="#M" n="30"/>lastici vel potius Quaestionarij Doctores te 
           <lb ed="#M" n="31"/>runt tempus in vanis &amp; curiosis quaestioni 
@@ -426,7 +426,7 @@
           <lb ed="#M" n="18"/>stinus nihil opus esse vt ea cum discrimine 
           <lb ed="#M" n="19"/>definiantur, quae sine discrimine nesciuntur.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e922">
           <lb ed="#M" n="20"/>Ex quibus omnibus satis intelligi potest,  
           <lb ed="#M" n="21"/>eam differendi rationem, quam scholastici 
           <lb ed="#M" n="22"/>Pontificij secuti sunt, nihil, aut certe parum, 
@@ -457,7 +457,7 @@
           <lb ed="#M" n="14"/>do &amp; figura facere se id posse: itaque in la 
           <lb ed="#M" n="15"/>tiorem orationis campum ingredi maluerunt.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e987">
           <lb ed="#M" n="16"/>Quum igitur ex iis quae ante dicta sunt,  
           <lb ed="#M" n="17"/>satis manifestum esse arbitremur Scholasti 
           <lb ed="#M" n="18"/>corum Pontificiorum disputaitones, nec ve 
@@ -474,7 +474,7 @@
           <lb ed="#M" n="29"/>ris viam commonstrare Theologice simul 
           <lb ed="#M" n="30"/>&amp; Scholastice disputandi.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1022">
           <lb ed="#M" n="31"/>Nam si Augustinus humanarum discipli  
           <!--035.xml-->
           <pb ed="#M" n="14"/>
@@ -489,7 +489,7 @@
           <lb ed="#M" n="9"/>veritatem ipsius adversus humanos errores 
           <lb ed="#M" n="10"/>propugnandam. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1053">
           <lb ed="#M" n="11"/>Ac tantisper dum illi qui &amp; Theologiae 
           <lb ed="#M" n="12"/>studio &amp; τζοπς παιδείας scientia excellunt, id  
           <lb ed="#M" n="13"/>praestandum suscipiant ego in eorum ado 
@@ -499,7 +499,7 @@
           <lb ed="#M" n="17"/>crassioribus lineamentis viuos illi postea co 
           <lb ed="#M" n="18"/>lores addant. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1073">
           <lb ed="#M" n="19"/>Duplicem esse statuo Theologicam tra 
           <lb ed="#M" n="20"/>ctationem: vunam, plenam &amp; vberiori sty 
           <lb ed="#M" n="21"/>lo compositam, quae &amp; rudes doceat, &amp; tar 
@@ -557,7 +557,7 @@
           <lb ed="#M" n="7"/>sariis, aliena pro consentaneis, falsa pro ve 
           <lb ed="#M" n="8"/>ris vsurpemus.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1198">
           <lb ed="#M" n="9"/>Quod quidem saepe accidit nimia diffu 
           <lb ed="#M" n="10"/>sae orationis licentia, qua veritatis adversa 
           <lb ed="#M" n="11"/>rij saepe abutuntur, vt sub orationis veste 
@@ -610,7 +610,7 @@
           <lb ed="#M" n="26"/>doctissimis Theologis non expectare tan 
           <lb ed="#M" n="27"/>tum, verumetiam flagitare.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1311">
           <lb ed="#M" n="28"/>Ecce igitur, proponimus tractationem 
           <lb ed="#M" n="29"/>Scholasticam loci Theologici desumpti ex 
           <lb ed="#M" n="30"/>primo cap. Epist. ad Hebraeos: nempe, de 
@@ -626,7 +626,7 @@
           <lb ed="#M" n="7"/>editis, quorum ego veluti quandam αιανοοιν 
           <lb ed="#M" n="8"/>conficiam hac Scholastica disputatone.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1344">
           <lb ed="#M" n="9"/>Sed antequam rem ipsam aggrediar, le 
           <lb ed="#M" n="10"/>ctores admonitos velim, disputationes de 
           <lb ed="#M" n="11"/>rebus sacris institutas, a quibusuis aliis di 
@@ -669,7 +669,7 @@
           <lb ed="#M" n="15"/>posse, quam idem Augustinus aeternam vi 
           <lb ed="#M" n="16"/>ctoriam appellauit.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1435">
           <lb ed="#M" n="17"/>Hoc autem dogma de quo nobis insti 
           <lb ed="#M" n="18"/>tuenda est disputatio tanti est momenti, vt  
           <lb ed="#M" n="19"/>meirito censeri debeat totius religionis fun 
@@ -690,7 +690,7 @@
           <lb ed="#M" n="1"/>tandem aliquando euertendam atque in ci 
           <lb ed="#M" n="2"/>netes abituram. 
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e63-d1e1479">
           <lb ed="#M" n="3"/>Vt igitur ad rem accedamus, huius dispu 
           <lb ed="#M" n="4"/>tationis sex erunt partes. In prima propo  
           <lb ed="#M" n="5"/>nemus nostram &amp; e regione opponemus 

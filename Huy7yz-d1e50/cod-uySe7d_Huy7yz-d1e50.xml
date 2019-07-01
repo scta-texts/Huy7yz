@@ -48,8 +48,8 @@
     </front>
     <body>
       <div xml:id="Huy7yz-d1e50">
-        <head>Epistola [Morges 1580 Transcription]</head>
-        <p><!--002.xml-->
+        <head xml:id="Huy7yz-d1e50-Hd1e95">Epistola [Morges 1580 Transcription]</head>
+        <p xml:id="Huy7yz-d1e50-d1e98"><!--002.xml-->
           <pb ed="#M" n="f8"/>
           <lb ed="#M" n="1"/>Veros Ecclesiae Pasto 
           <lb ed="#M" n="2"/>res, Chrysostomus dice 
@@ -176,7 +176,7 @@
           <lb ed="#M" n="19"/>meam sententiam, meque adeo totum  
           <lb ed="#M" n="20"/>libenter subiicio.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e50-d1e370">
           <lb ed="#M" n="21"/>Quanquam autem hanc disputan 
           <lb ed="#M" n="22"/>di rationem, nunc sequutus sum, no 
           <lb ed="#M" n="23"/>lim tamen propterea aliquid deroga  
@@ -256,7 +256,7 @@
           <lb ed="#M" n="11"/>tus sum, vel ex ea quam vos ipsis me 
           <lb ed="#M" n="12"/>liorem iudicabitis.
         </p>
-        <p>
+        <p xml:id="Huy7yz-d1e50-d1e541">
           <lb ed="#M" n="13"/>Quamobrem peto a Pontificiis, prae 
           <lb ed="#M" n="14"/>sertim ab iis qui sibi disputandi scien 
           <lb ed="#M" n="15"/>tiam imprimis arrogant, vt eam ex scho 
